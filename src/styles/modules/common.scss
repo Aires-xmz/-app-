@@ -1,0 +1,83 @@
+$w:100%;
+#root{
+    height: $w;
+}
+html{
+    width: $w;
+}
+.historyback{
+  cursor: pointer;
+}
+@font-face {
+  font-family: 'yofont';
+  src: url('iconfont.eot');
+  src: url('../../assets/icons/font/iconfont.eot?#iefix') format('embedded-opentype'),
+      url('../../assets/icons/font/iconfont.woff2') format('woff2'),
+      url('../../assets/icons/font/iconfont.woff') format('woff'),
+      url('../../assets/icons/font/iconfont.ttf') format('truetype'),
+      url('../../assets/icons/font/iconfont.svg#iconfont') format('svg');
+}
+  header{
+      z-index: 9999999;
+      height: 2.75rem;
+      background-color: #fafafa;
+      @include border(0 0 1px,#ccc);
+      ul{
+          display: flex;
+          color: #444D54;
+          li{
+              flex: 1;
+              display: flex;
+              align-items: center;
+              line-height: 2.75rem;
+              font-size: 1.375rem;
+              span{
+                  padding-left: .5rem;
+                  height: 2.75rem;
+                  line-height: .2.75rem;
+                  .header-btn{
+                    width: 1.4rem;
+                    height: 1.4rem;
+                    img{
+                      vertical-align: baseline;
+                    }
+                  }
+              }
+              .login{
+                  font-size: .75rem;
+              }
+              &.font-position{
+                color: #e1514c;
+              }
+              &.font-fly{
+                font-size: 1.0625rem;
+                color: #444D54;
+              }
+              &:nth-child(1){
+                margin-left: .4rem;
+              }
+              &:nth-child(2){
+                justify-content: center; 
+              }
+              &:nth-child(3){
+                justify-content: flex-end;
+                margin-right: .4rem;
+              }
+          }
+      }
+  }
+.font_14{
+  font-size: .875rem;
+}
+.font_12{
+  font-size: .75rem;
+}
+.font_24 {
+  font-size: 1.5rem;
+}
+.font_18 {
+  font-size: 1.125rem;
+}
+.font_10 {
+  font-size: .625rem;
+}

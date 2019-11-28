@@ -1,0 +1,90 @@
+<div class="main-container">
+		<div class="swiper-container">
+		<div class="swiper-wrapper">
+			{{each listBanner}}
+			<img src="{{$value.img}}" alt="" class="swiper-slide">
+			{{/each}}
+		</div>
+		<div class="swiper-pagination"></div>
+		</div>
+		<div class="book-main-area-wrapper">
+		<div class="book-main-area">
+			<div class="reserve" data-to="reserve" ><img src="http://m.hnair.com/package/images/home_bookflight.svg"></div>
+			<div class="seat" data-to="seat" ><img src="http://m.hnair.com/package/images/home_checkin.svg"></div>
+		</div>
+		</div>
+		<div class="hna-book-menu">
+			<ul>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201801/P020180123580846881224.png" alt="">
+					<p>航班动态</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201801/P020180123580845949303.png" alt="">
+					<p>登机口升舱</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201801/P020180123580845017793.png" alt="">
+					<p>航变服务</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201903/P020190325770783113545.png" alt="">
+					<p>机加酒</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201905/P020190522313638859920.png" alt="">
+					<p>付费行李</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201909/P020190924554538881863.png" alt="">
+					<p>电子发票</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201907/P020190701630446571443.png" alt="">
+					<p>辅营商城</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201801/P020180123580843441056.png" alt="">
+					<p>更多服务</p>
+				</li>
+			</ul>
+		</div>
+		<div class="hna-travel-menu">
+			<div class="head">- 旅行信息 -</div>
+			<div class='travel-menu'>
+				<ul >
+					<li><img src="https://m.hnair.com/cms/config/standard/service/201808/P020180816625392537946.png"><span>出行准备</span></li>
+					<li><img src="https://m.hnair.com/cms/config/standard/service/201808/P020180816625391288280.png"><span>入境要求</span></li>
+					<li><img src="https://m.hnair.com/cms/config/standard/service/201808/P020180816625390192421.png"><span>联系海航</span></li>
+					<li><img src="https://m.hnair.com/cms/config/standard/service/201808/P020180816625389091464.png"><span>地面体验</span></li>
+					<li><img src="https://m.hnair.com/cms/config/standard/service/201808/P020180816625387699609.png"><span>家庭出行</span></li>
+				</ul>
+			</div>
+		</div>
+		<div class="hot-city">
+			<ul>
+				{{each list}}
+				<li><img src="{{$value.img}}"><p class="hot-city-titile">{{$value.title}}</p></li>
+				{{/each}}
+				<li class="more-des" data-to="moredes">
+					<span><img src="http://m.hnair.com/package/images/picMorePopularDestinations.png">
+					<p>更多热门目的地</p></span>
+				</li>
+			</ul>
+		</div>
+		<div class="hna-book-benefit">
+			<div class="hna-book-benefit-title"><img src="http://m.hnair.com/package/images/icon_saletag.svg"> 优惠从 <a href="#"> {{scaleTitle.orgName}} </a> 启程 </div>
+			<div class="hna-book-benefit-list">
+				<ul>
+				{{each listScale}}
+					<li><i class="list-scale"><img src="{{$value.airlinePriceInfo.adresLink}}"></i><p>{{$value.airlinePriceInfo.date}}</p><p>{{$value.dstName}}</p><p>￥{{$value.airlinePriceInfo.lowestPrice}}</p></li>
+				{{/each}}
+					<li class="more-scale" data-to="morescale"><em><span>更多优惠</span></em></li>
+				</ul>
+			</div>
+		</div>
+		<div class="hnair-websiet-container">
+			<a href="#">-- 访问海南航空电脑版 --</a>
+			<p>若访问,您将被视为同意我们的<a href="#">隐私政策</a>和<a href="#">Cookie的使用</a></p>
+		</div>
+</div>

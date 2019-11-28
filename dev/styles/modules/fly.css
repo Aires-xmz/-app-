@@ -1,0 +1,16 @@
+.fly-container {
+  overflow: hidden;
+  height: 100%;
+  background: #fff url(http://m.hnair.com/package/images/bg_hnafeather_trips.svg) no-repeat; }
+  .fly-container .fly-wrapper .fly-no-travel {
+    margin-top: 3rem;
+    width: 100%;
+    text-align: center;
+    visibility: visible;
+    font-size: .875rem; }
+    .fly-container .fly-wrapper .fly-no-travel span {
+      vertical-align: middle;
+      display: inline-block; }
+    .fly-container .fly-wrapper .fly-no-travel img {
+      vertical-align: sub;
+      display: inline-block; }

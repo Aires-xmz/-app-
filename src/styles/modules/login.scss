@@ -1,0 +1,110 @@
+.login-container{
+    height: 100%;
+    background: #fff;
+    .login-wrapper{
+        .login-header{
+            height: 4rem;
+            width: 100%;
+        }
+        .login-body{
+            overflow: hidden;
+            padding: 0 3.5rem;
+            position: relative;
+            z-index: 10;
+            .login-username,.login-password{
+                border-bottom: 1px solid #ededed;
+                padding-bottom: .875rem;
+                margin-top: 2.1875rem;
+                .login-input-pwd,.login-input-account{
+                    font-size: .875rem;
+                    line-height: 1.0625rem;
+                    border: none;
+                    width: 100%;
+                    height: 99%;
+                    margin-right: 0rem;
+                }
+            }
+            .login-status{
+                margin-top: 1.4375rem;
+                margin-bottom: 3.6875rem;
+                height: 1.125rem;
+                font-size: .875rem;
+                display: flex;
+                justify-content: space-between;
+                >div{
+                    box-sizing: content-box;
+                }
+                .check-item{
+                    vertical-align: middle;
+                    position: relative;
+                    width: 1.125rem;
+                    height: 1.125rem;
+                    &:enabled:before{
+                        content: "";
+                        // position: absolute;
+                        // top: -0.05rem;
+                        // left: -0.025rem;
+                        display: block;
+                        width: 1.22rem;
+                        height: 1.22rem;
+                        background:#fff url(http://m.hnair.com/package/images/icon_check_box.svg) no-repeat;
+                        background-size:cover;
+                    }
+                    &:checked:after{
+                        content: "";
+                        position: absolute;
+                        top: -0.05rem;
+                        left: -0.025rem;
+                        display: block;
+                        width: 1.2rem;
+                        height: 1.2rem;
+                        background: url(http://m.hnair.com/package/images/icon_check_box_selected.svg) no-repeat;
+                        background-size: cover;
+                    }
+                    
+                }
+                .login-status-item{
+                    margin-left: .5rem;
+                    vertical-align: middle;
+                    line-height: 1.12rem;
+                    height: 1.12rem;
+                }
+            }
+            .login-button{
+                width: 100%;
+                height: 2.75rem;
+                border: 1px solid #e1514c;
+                border-radius: 1.375rem 0px;
+                background: #e1514c;
+                text-align: center;
+                line-height: 2.75rem;
+                font-size: 1rem;
+                color: #FFF;
+                box-sizing: border-box;
+            }
+            .login-forgot-wrapper{
+                display: flex;
+                justify-content: space-around;
+                margin-top: 1.25rem;
+                div{
+                    line-height: 1.25rem;
+                    height: 1.25rem;
+                    text-align: center;
+                    font-size: .875rem;
+                    &:last-child{
+                        color: #E1514C;
+                    }
+                }
+            }
+        }
+        .login-bottom {
+            position: absolute;
+            bottom: 0;
+            height: 8.625rem;
+            left: 0;
+            width: 100%;
+            background: #fff url(http://m.hnair.com/package/images/bg_Login_bottom.png) bottom center no-repeat;
+            background-size: 100% 100%;
+        }
+    }
+}

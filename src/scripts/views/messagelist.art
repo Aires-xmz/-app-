@@ -1,0 +1,12 @@
+{{each messageList}}
+    <li class="mssage-item">
+        <p class="message-date">
+            <img src="http://m.hnair.com/package/images/icon_notification_notice.svg">
+            <span class="message-date-txt font_14">{{$value.createTime}}</span>
+        </p>
+        <p class="message-title">
+            <span class="message-title-txt font_14">{{$value.titleName}}</span>
+            <img src="http://m.hnair.com/package/images/arrow_gray_rightward.svg">
+        </p>
+    </li>
+{{/each}}

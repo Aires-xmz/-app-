@@ -1,0 +1,28 @@
+<div class="fly-container">
+    <div class="fly-wrapper">
+    
+        <div class="fly-no-travel">
+        {{if isSignin}}
+            <span>没有发现您的行程</span>
+            <img src="http://m.hnair.com/package/images/question.svg">
+        {{/if}}   
+        </div>
+    
+        <div class="fly-no-user">
+            <img src="http://m.hnair.com/package/images/pic_LuggagesAndFlight.svg">
+        </div>
+        {{if isSignin}}
+        <div class="next-station-tip-top">
+            <img src="http://m.hnair.com/package/images/iconLocationYellow@3x.png" class="next-station-tip-location">
+            <div class="next-station-tip-text font_16">下一站，发现生活的另一种可能</div>
+            <img src="http://m.hnair.com/package/images/picDottedLineWithYellowAirplane@3x.png" class="next-station-tip-dot">
+        </div>
+        {{else}}
+        <div class="fly-unlogin-travel">
+            <p>我们将替您关注未来的行程</p>
+            <p>助您轻松做好出行准备</p>
+            <button class="fly-unlogin-btn">登录／注册</button>
+        </div>
+        {{/if}}
+    </div>
+</div>

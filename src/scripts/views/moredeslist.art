@@ -1,0 +1,9 @@
+{{each list}}
+    <div class="moredes-item">
+        <img src="{{$value.img2}}">
+        <p class="hot-city-titile">
+            <span>{{$value.title}}</span>
+            <img src="http://m.hnair.com/package/images/right.svg">
+        </p>
+    </div>
+{{/each}}

@@ -1,0 +1,272 @@
+.reserve-container {
+  background: #fff;
+  height: 100%;
+  .reserve-route-type {
+    display: flex;
+    justify-content: space-between;
+    height: 2.75rem;
+    background-color: #fafafa;
+    @include border(0 0 1px, #ededed);
+    span {
+      text-align: center;
+      width: 20%;
+      line-height: 2.75rem;
+      height: 100%;
+      position: relative;
+      &:first-child {
+        margin-left: 20%;
+      }
+      &:last-child {
+        margin-right: 20%;
+      }
+    }
+    .reserve-route-select-type::before {
+      content: "";
+      display: block;
+      position: absolute;
+      bottom: 0;
+      height: 3px;
+      background: #e1514c;
+      width: 100%;
+    }
+  }
+  .reserve-book-type {
+    height: 1.8125rem;
+    margin-top: 1.375rem;
+    div {
+      height: 1.8125rem;
+      border-radius: 1.69rem;
+      width: 60%;
+      border: 1px solid #e1514c;
+      margin: 0 auto;
+      display: flex;
+      span {
+        flex: 1;
+        line-height: 1.8125rem;
+        text-align: center;
+      }
+      span:first-child {
+        border-top-left-radius: 1.69rem;
+        border-bottom-left-radius: 1.69rem;
+      }
+      span:last-child {
+        border-top-right-radius: 1.69rem;
+        border-bottom-right-radius: 1.69rem;
+      }
+      .reserve-book-select-type {
+        background-color: #e1514c;
+        color: #fff;
+      }
+      .reserve-book-unselect-type {
+        background-color: #fff;
+        color: #e1514c;
+      }
+    }
+  }
+  .reserve-body {
+    margin: 0 0 0 5%;
+    width: 90%;
+    .reserve-row {
+      width: 100%;
+      position: relative;
+      margin-top: 0.5rem;
+      > div {
+        display: flex;
+        div {
+          line-height: 4.2rem;
+          height: 3rem;
+          font-weight: 300;
+        }
+        .reserve-passgener-ct {
+          display: flex;
+          > div {
+            flex: 1;
+            span {
+              margin-left: 0.2rem;
+            }
+          }
+        }
+        .reserve-row-label {
+          width: 26%;
+          text-indent: 0.4rem;
+          font-size: 0.87rem;
+        }
+        .reserve-row-input {
+          width: 65%;
+          font-size: 1.12rem;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+          @include border(0 0 1px, #ededed);
+        }
+        .choose-level {
+          display: flex;
+          justify-content: space-between;
+          img {
+            border: none;
+            margin-top: 1rem;
+            width: 1.2rem;
+            height: 1.2rem;
+          }
+        }
+      }
+      .swap {
+        position: absolute;
+        right: 0.4rem;
+        top: 50%;
+        margin-top: -0.6rem;
+        width: 2rem;
+        height: 3rem;
+        img {
+          width: 1.2rem;
+          height: 1.2rem;
+        }
+      }
+    }
+    .reserve-search {
+      margin-bottom: 2rem;
+      .reserve-book-query-btn {
+        border-radius: 1.375rem 0px;
+        height: 2.75rem;
+        border: 1px #e1514c solid;
+        background: #e1514c;
+        width: 100%;
+        font-size: 1rem;
+        margin-top: 2rem;
+        color: white;
+      }
+    }
+  }
+}
+.passenger-container {
+  display: none;
+  position: absolute;
+  z-index: 9999999;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  .passenger-wrapper {
+    height: auto;
+    min-height: 50%;
+    width: 100%;
+    padding-bottom: 0.6rem;
+    width: 100%;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+    .number {
+      display: flex;
+      padding-top: 0.5rem;
+      flex-direction: column;
+      > div {
+        display: flex;
+        flex-direction: row;
+        margin-left: 4.375rem;
+        .passenger-tit {
+          margin-right: 4.375rem;
+          font-weight: 400;
+          margin-top: 0.6rem;
+          color: #444d54;
+          font-size: 1.25rem;
+        }
+        .passenger-addorminus {
+          height: 2.8rem;
+          padding-top: 0.3rem;
+          display: flex;
+          > span {
+            font-size: 3rem;
+            line-height: 2.5rem;
+            color: #444d54;
+            width: 3rem;
+            text-align: center;
+          }
+          .pimg {
+            font-size: 2rem;
+            border-radius: 1.5rem;
+            text-align: center;
+            line-height: 2rem;
+            width: 2.5rem;
+            border: 0.1rem solid #444d54;
+          }
+          .minus {
+            border-color: rgb(210, 210, 210);
+            color: rgb(210, 210, 210);
+          }
+        }
+      }
+    }
+    .passenger-tbar {
+      display: flex;
+      flex-direction: row;
+      flex: 1;
+      background: rgba(225, 81, 76, 0.05);
+      align-items: center;
+      margin: 0 7%;
+      height: 100%;
+      color: rgba(0, 0, 0, 0.54);
+      letter-spacing: -1px;
+      font-size: 0.75rem;
+      ul {
+        li {
+          list-style-type: square;
+          color: #e1514c;
+          padding: 4px 0 4px 1.25rem;
+          p {
+            color: #444d54;
+          }
+        }
+      }
+      .max5 {
+        display: block;
+      }
+      .max3 {
+        display: none;
+      }
+    }
+    .passenger-bottom {
+      width: 100%;
+      padding-top: 1.5rem;
+      button {
+        width: 86%;
+        margin-left: 7%;
+        border-radius: 1.22rem 0px;
+        height: 2.44rem;
+        border: 1px solid #e1514c;
+        background: #e1514c;
+        color: #fff;
+        font-size: 1.125rem;
+      }
+    }
+  }
+}
+.chooselevel-container {
+  display: none;
+  position: absolute;
+  z-index: 9999999;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  .chooselevel-wrapper {
+    padding: 0 1rem;
+    height: auto;
+    width: 100%;
+    padding-bottom: 0.6rem;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+    > div {
+      height: 3rem;
+      justify-content: center;
+      border-bottom: 1px solid #ededed;
+      color: #444d54;
+      align-items: center;
+      display: flex;
+    }
+  }
+}

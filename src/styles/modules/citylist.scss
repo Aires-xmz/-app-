@@ -1,0 +1,135 @@
+.citylist-search-container {
+  position: relative;
+  z-index: 9;
+  .citylist-search-wrapper {
+    background: #fff;
+    display: flex;
+    padding: 1rem 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+    .citylist-search-ico {
+      width: 1.2rem;
+      height: 1.2rem;
+      margin-left: 1.1875rem;
+    }
+    #input {
+      color: #444d54;
+      height: 1.375rem;
+      line-height: 1.375rem;
+      margin: 0 0 0 0.875rem;
+      border: none;
+      font-family: PingFangSC-Light;
+      font-size: 1rem;
+      font-weight: 300;
+      width: 95%;
+    }
+    .citylist-input-delete {
+      width: 1.5rem;
+      height: 1.1875rem;
+      margin-right: 1rem;
+      display: none;
+    }
+  }
+}
+.citylist-tabs {
+  text-align: center;
+  height: 2.7rem;
+  line-height: 2.7rem;
+  display: flex;
+  background: #fafafa;
+  position: relative;
+  z-index: 8;
+  @include border(0 0 1px, #ededed);
+  .citylist-tab {
+    width: 50%;
+    .citylist-tab-item {
+      display: inline-block;
+      text-align: center;
+      width: 5rem;
+      font-size: 0.875rem;
+      white-space: nowrap;
+    }
+    .citylist-tab-item-active {
+      border-bottom: 0.25rem solid #e1514c;
+    }
+  }
+}
+.citylist-container {
+  height: calc(100% - 6.1rem);
+  position: relative;
+  .citylist-wrapper {
+    background: #fff;
+    // overflow-y: scroll;
+    // height: 100%;
+    .citylist-column {
+      padding: 0 1.5625rem 0 1rem;
+      margin-bottom: 1rem;
+      .citylist-column-label {
+        margin-top: 0.25rem;
+        padding: 0.75rem 0;
+      }
+      .citylist-column-content {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        .citylist-column-item {
+          width: 6.625rem;
+          padding: 0.5rem 0;
+          border: 1px solid #ededed;
+          text-align: center;
+          margin: 0.5rem 0;
+        }
+      }
+    }
+    .citylist-list-row {
+      .citylist-list-row-label {
+        line-height: 0.875rem;
+        background: #ededed;
+        padding-left: 1rem;
+        margin: 0.5rem 0;
+      }
+    }
+  }
+}
+.citylist-list-letters {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: absolute;
+  padding-top: 0.75rem;
+  margin-top: 6rem;
+  z-index: 9;
+  top: 0;
+  right: 0;
+  .citylist-list-letters-item {
+    height: 1rem;
+    line-height: 1rem;
+    font-size: 0.5rem;
+    width: 1rem;
+    text-align: center;
+    color: #c1c1c1;
+    margin-right: 8px;
+  }
+  .active {
+    background: #e1514c;
+    border-radius: 50%;
+  }
+}
+.suggest-container {
+  width: $w;
+  position: absolute;
+  top: 6.2rem;
+  background: #fff;
+  z-index: 8;
+  display: none;
+  .suggest-wrapper {
+    width: $w;
+  }
+}
+.citylist-list-row-item {
+  margin: 0 1.5625rem 1.3125rem 1.8125rem;
+}
+.confirm-button{
+  border-radius: 1.22rem 0px;
+  height: 2.44rem;
+}

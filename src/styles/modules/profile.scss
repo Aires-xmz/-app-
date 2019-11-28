@@ -1,0 +1,159 @@
+.profile-container {
+  height: 100%;
+  overflow: hidden;
+  .profile-wrapper {
+    font-size: 0.75rem;
+    padding-bottom: 1.25rem;
+    .bd-bottom {
+      @include border(0 0 1px, #ededed);
+    }
+    .profile-top {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 13.125rem;
+      background: url(http://m.hnair.com/package/images/bg_Me_Banner_guest.svg)
+        no-repeat;
+      background-size: cover;
+      font-size: 0.875rem;
+      .profile-top-setting {
+        position: absolute;
+        left: 1.125rem;
+        top: 1.125rem;
+        img {
+          width: 1.24rem;
+        }
+      }
+      div:nth-child(2) {
+        text-align: center;
+      }
+      .profile-top-login-btn {
+        width: 7.5rem;
+        height: 2rem;
+        margin-top: 1.75rem;
+        background: #e1514c;
+        border: 1px solid #e1514c;
+        border-radius: 1rem 0px;
+        color: #fff;
+        line-height: 2rem;
+        text-align: center;
+        vertical-align: middle;
+      }
+      .hna-user-top-content {
+        position: absolute;
+        bottom: 0.75rem;
+        left: 0;
+        height: 7.25rem;
+        width: 100%;
+        border-top: 1px solid #ededed;
+        background: rgba(255, 255, 255, 0.5);
+        .hna-user-header-outer {
+          position: absolute;
+          width: 5.5rem;
+          height: 5.5rem;
+          right: 3.4375rem;
+          top: -4rem;
+          border-radius: 5rem;
+          background: #f8f8f8;
+          border: 1px solid #ededed;
+          .hna-user-header-inner {
+            position: relative;
+            width: 5rem;
+            height: 5rem;
+            border-radius: 5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 0.25rem solid #fff;
+            top: 50%;
+            left: 50%;
+            transform: translate3d(-50%, -50%, 0);
+          }
+        }
+        .hna-user-info-wrap {
+          margin-top: 0.8125rem;
+          display: flex;
+          justify-content: space-between;
+          .hna-user-header-verify {
+            line-height: 1.875rem;
+            color: #fff;
+            height: 1.875rem;
+            background: #dbc18f;
+            width: 6.4375rem;
+            text-align: center;
+            margin-top: 2.75rem;
+            white-space: nowrap;
+          }
+          > div {
+            .hna-user-top-name {
+              text-align: left;
+              height: 2.25rem;
+              max-width: 11rem;
+              border-left: 0.25rem solid #e1514c;
+              padding-left: 1.25rem;
+              font-size: 1.25rem;
+              line-height: 2.25rem;
+              text-overflow: ellipsis;
+              overflow: hidden;
+              white-space: nowrap;
+            }
+          }
+          .hna-user-top-card {
+            padding: 0.625rem 0 0.625rem 1.25rem;
+          }
+        }
+      }
+    }
+    .profile-nav-box {
+      @include border(1px 0, #ededed);
+      background: #fff;
+      margin-top: 0.625rem;
+      ul {
+        display: flex;
+        flex-wrap: wrap;
+        li {
+          flex-grow: 1;
+          height: 5rem;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          &:first-child {
+            border-right: 1px dashed #ededed;
+          }
+          &:last-child {
+            border-left: 1px dashed #ededed;
+          }
+          img {
+            width: 1.6875rem;
+            height: 1.6875rem;
+            margin-bottom: 0.625rem;
+          }
+        }
+      }
+    }
+    .profile-usual-setting {
+      color: #9b9b9b;
+      height: 2.25rem;
+      line-height: 2.25rem;
+      padding: 0 6%;
+    }
+    .profile-list-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: #fff;
+      height: 2.75rem;
+      padding: 0 6%;
+    }
+    .profile-logout {
+      background: #fff;
+      height: 2.75rem;
+      margin-top: 1.25rem;
+      line-height: 2.75rem;
+      text-align: center;
+    }
+  }
+}

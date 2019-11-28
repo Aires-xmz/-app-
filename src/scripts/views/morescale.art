@@ -1,0 +1,43 @@
+<div class="sortby-container">
+    <div class="sortby-wrapper">
+        <div class="sortby-item font_14">按折扣排序</div>
+    </div>
+</div>
+<div class="morescale-title">
+    <div class="morescale-title-address">
+        <img src="http://m.hnair.com/package/images/icon_location_red.svg">
+        <span>{{list.scale.orgDisplayName}}</span>
+    </div>
+    <div class="morescale-title-time">
+        <img src="http://m.hnair.com/package/images/calendar.svg">
+        <span class="morescale-title-time-item">四周内</span>
+        <img src="http://m.hnair.com/package/images/arrow_gray_downward.svg">
+    </div>
+</div> 
+<div class="morescale-sort">
+    <div class="morescale-sort-select font_14"><span class="sortby">按价格排序</span><span>▼</span></div>
+    <div><span class="morescale-sort-up active">↑</span><span class="morescale-sort-down">↓</span></div>
+</div>
+
+<div class="morescale-container">
+
+    <div class="morescale-wrapper">
+        {{each list.scale.dstAndAirlinePriceInfo}}
+            <div class="morescale-item">
+                <div>
+                    <div class="morescale-item-top">
+                        <div class="morescale-item-top-date font_12">{{$value.airlinePriceInfo.date}}</div>
+                        <div class="morescale-item-bottom-address font_18">{{list.scale.orgDisplayName}} - {{$value.dstName}}</div>
+                    </div>
+                    <div class="morescale-item-bottom">
+                        <div class="morescale-item-top-discount font_10">
+                            {{($value.airlinePriceInfo.lowestDiscount * 10).toFixed(2)}}折
+                        </div>
+                        <div class="morescale-item-bottom-pay font_18">￥{{$value.airlinePriceInfo.lowestPrice}}</div>
+                    </div>
+                </div>
+                <img src="http://m.hnair.com/package/images/right.svg">
+            </div>
+        {{/each}}
+    </div>
+</div>

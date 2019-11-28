@@ -1,0 +1,53 @@
+.seat-container{
+    height: 100%;
+    background: #fafafa;
+    .seat-wrapper{
+        text-align: center;
+        .seat-hot-container{
+            background: #FFF;
+            padding-bottom: 1.125rem;
+            border-bottom: 1px solid #eee;
+        }
+        .seat-nice{
+            text-align: center;
+            background: #fff;
+            padding: 1rem 0 1.1875rem;;
+            @include border(1px 0 0,#eee);
+            margin: .625rem 0 0;
+            p{
+                margin-top: .3125rem;
+                margin-bottom: .75rem;
+                font-size: 1rem;
+            }
+        }
+        .seat-hot{
+            width: 70%;
+        }
+        .seat-button {
+            display: inline-block;
+            width: 70%;
+            height: 2.75rem;
+            line-height: 2.75rem;
+            background: #e1514c;
+            border-radius: 1.375rem 0;
+            color: #FFF;
+            margin-top: 1.25rem;
+            font-size: 1rem;
+        }
+        .seat-title{
+            background: #fff;
+            padding: 1.3125rem 0 1.125rem;
+            @include border(2px 0 0,#ededed);
+            text-align: left;
+            font-size: .75rem;
+            .seat-title-tip{
+                width: 4rem;
+                margin-left: 1rem;
+                margin-bottom: .2rem;
+            }
+            .seat-content{
+                margin: 0 1rem;
+            }
+        }
+    }
+}

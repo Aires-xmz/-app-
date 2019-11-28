@@ -1,0 +1,26 @@
+<div class="message-container">
+    <div>
+        <div class="head">
+            <img src="/assets/images/arrow.png"/>
+            <b>下拉刷新...</b>
+        </div>
+        <ul class="message-wrapper">
+            {{each messageList}}
+            <li class="mssage-item">
+                <p class="message-date">
+                    <img src="http://m.hnair.com/package/images/icon_notification_notice.svg">
+                    <span class="message-date-txt font_14">{{$value.createTime}}</span>
+                </p>
+                <p class="message-title">
+                    <span class="message-title-txt font_14">{{$value.titleName}}</span>
+                    <img src="http://m.hnair.com/package/images/arrow_gray_rightward.svg">
+                </p>
+            </li>
+            {{/each}}
+        </ul>
+        <div class="foot">
+            <img src="/assets/images/arrow.png"/>
+            <b>上拉加载更多...</b>
+        </div>
+    </div>
+</div>

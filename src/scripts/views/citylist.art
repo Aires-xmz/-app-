@@ -1,0 +1,52 @@
+
+<div class="citylist-search-container">
+    <div class="citylist-search-wrapper">
+        <img class="citylist-search-ico" src="http://m.hnair.com/package/images/search.svg">
+        <input id="input" placeholder="出发地中文/拼音/英文/机场三字码" value="">
+        <img class="citylist-input-delete" src="http://m.hnair.com/package/images/delete-round.svg">
+    </div>
+    
+    <div class="citylist-list-letters">
+        {{each fir}}
+        <div class="citylist-list-letters-item">{{$value}}</div>
+        {{/each}}
+    </div>
+</div>
+<div class="citylist-tabs font_14">
+    <div class="citylist-tab">
+        <div class="citylist-tab-item citylist-tab-item-active">国内</div>
+    </div>
+    <div class="citylist-tab">
+        <div class="citylist-tab-item">港澳台/国际</div>
+    </div>
+</div>
+<div class="citylist-container">
+    <div class="citylist-wrapper">
+        <div class="citylist-column font_14 floor">
+            <div class="citylist-column-label">{{list.title}}</div>
+            <div class="citylist-column-content">
+            {{each list.hotList}}
+                <div class="citylist-column-item">{{$value.displayName}}</div>
+            {{/each}}    
+            </div>
+        </div>
+        {{each air}}
+        <div class="citylist-list-row floor" id="group-{{$index}}">
+            <div class="citylist-list-row-label">
+                <span class="font_10">{{fir[$index+1]}}</span>
+            </div>
+            <ul class="citylist-list-row-content">
+                {{each air[$index]}}
+                <li class="citylist-list-row-item">
+                    <span class="font_24">{{$value.city}}</span><span class="font_14">{{$value.name}}</span>
+                </li>
+                {{/each}}
+            </ul>
+        </div>
+        {{/each}}
+    </div>
+</div>
+<div class="suggest-container">
+    <div class="suggest-wrapper">
+    </div>
+</div>

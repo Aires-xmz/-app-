@@ -1,0 +1,62 @@
+{
+    "page": {
+            "pageCount": 3,
+            "total": 9,
+            "pageSize": 4,
+            "currentPage": 1
+    },
+    "list": [
+            {
+                "img4": "https://m.hnair.com/cms/config/standard/hotDest/201809/P020180905490182570376.jpg",
+                "img3": "https://m.hnair.com/cms/config/standard/hotDest/201809/P020180905490182572151.jpg",
+                "img": "https://m.hnair.com/cms/config/standard/hotDest/201809/P020180905490182894770.jpg",
+                "link": "http://www.hnair.com/place/Vienna/",
+                "pageSize": "4",
+                "title": "维也纳，音乐之都",
+                "priority": "1",
+                "linkArgs": "",
+                "airportCode": "VIE",
+                "img2": "https://m.hnair.com/cms/config/standard/hotDest/201809/P020180905490182891635.jpg",
+                "clickAction": "interPage"
+            },
+            {
+                "img4": "https://m.hnair.com/cms/config/standard/hotDest/201807/P020180710574188525366.jpg",
+                "img3": "https://m.hnair.com/cms/config/standard/hotDest/201807/P020180710574188525307.jpg",
+                "img": "https://m.hnair.com/cms/config/standard/hotDest/201807/P020180710574188686601.jpg",
+                "link": "http://www.hnair.com/place/sydney/",
+                "pageSize": "4",
+                "title": "悉尼，目之所及,处处皆画",
+                "priority": "1",
+                "linkArgs": "",
+                "airportCode": "",
+                "img2": "https://m.hnair.com/cms/config/standard/hotDest/201807/P020180710574188687689.jpg",
+                "clickAction": "interPage"
+            },
+            {
+                "img4": "https://m.hnair.com/cms/config/standard/hotDest/201807/P020180710573899469879.jpg",
+                "img3": "https://m.hnair.com/cms/config/standard/hotDest/201807/P020180710573900093467.jpg",
+                "img": "https://m.hnair.com/cms/config/standard/hotDest/201807/P020180710573900872773.jpg",
+                "link": "http://www.hnair.com/place/paris/",
+                "pageSize": "4",
+                "title": "巴黎，满足所有人的期许",
+                "priority": "",
+                "linkArgs": "",
+                "airportCode": "",
+                "img2": "https://m.hnair.com/cms/config/standard/hotDest/201807/P020180710573900403139.jpg",
+                "clickAction": "interPage"
+            },
+            {
+                "img4": "https://m.hnair.com/cms/config/standard/hotDest/201807/P020180710574204314590.jpg",
+                "img3": "https://m.hnair.com/cms/config/standard/hotDest/201807/P020180710574204312806.jpg",
+                "img": "https://m.hnair.com/cms/config/standard/hotDest/201807/P020180710574204466133.jpg",
+                "link": "http://www.hnair.com/place/dublin/",
+                "pageSize": "4",
+                "title": "都柏林",
+                "priority": "",
+                "linkArgs": "",
+                "airportCode": "",
+                "img2": "https://m.hnair.com/cms/config/standard/hotDest/201807/P020180710574204460040.jpg",
+                "clickAction": "interPage"
+            }
+    ]
+}

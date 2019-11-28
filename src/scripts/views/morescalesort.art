@@ -1,0 +1,17 @@
+{{each list}}
+    <div class="morescale-item">
+        <div>
+            <div class="morescale-item-top">
+                <div class="morescale-item-top-date font_12">{{$value.airlinePriceInfo.date}}</div>
+                <div class="morescale-item-bottom-address font_18">{{res.scale.orgDisplayName}} - {{$value.dstName}}</div>
+            </div>
+            <div class="morescale-item-bottom">
+                <div class="morescale-item-top-discount font_10">
+                    {{($value.airlinePriceInfo.lowestDiscount * 10).toFixed(2)}}折
+                </div>
+                <div class="morescale-item-bottom-pay font_18">￥{{$value.airlinePriceInfo.lowestPrice}}</div>
+            </div>
+        </div>
+        <img src="http://m.hnair.com/package/images/right.svg">
+    </div>
+{{/each}}
