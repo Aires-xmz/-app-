@@ -1,0 +1,3 @@
+@import url(../../libs/swiper.css);
+.swiper-container .swiper-pagination-bullet-active {
+  background: #f00; }

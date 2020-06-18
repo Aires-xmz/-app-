@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "658017",
+      "name": "个人",
+      "font_class": "geren",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "3080742",
+      "name": "铃铛",
+      "font_class": "Group",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "6835389",
+      "name": "加载",
+      "font_class": "jiazai",
+      "unicode": "e6e9",
+      "unicode_decimal": 59113
+    },
+    {
+      "icon_id": "10405336",
+      "name": "返 回",
+      "font_class": "fanhui",
+      "unicode": "e508",
+      "unicode_decimal": 58632
+    },
+    {
+      "icon_id": "10998284",
+      "name": "海南航空",
+      "font_class": "hainanhangkong",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    }
+  ]
+}

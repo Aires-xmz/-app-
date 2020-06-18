@@ -1,0 +1,85 @@
+<div class="index-container">
+<header>
+	<ul class="yo-ico">
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul>
+</header>
+    <main></main>
+    <footer>
+        <ul>
+            <li data-to="position" class="active">
+                <span>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19 19" version="1.1" class="injected-svg hna-icon-size-18">
+                        <g  stroke="none" stroke-width="1"fill-rule="evenodd">
+                            <g transform="translate(-37.000000, -1278.000000)">
+                                <g transform="translate(0.000000, 1269.000000)">
+                                    <g transform="translate(37.000000, 9.000000)">
+                                        <path d="M10.1917471,1.16202908 L19,9.59956936 L0,9.59956936 L8.80825286,1.16202908 C9.19501058,0.79154882 9.80498942,0.79154882 10.1917471,1.16202908 Z"></path>
+                                        <path d="M11.4,18.1 L11.4,13.35 L7.6,13.35 L7.6,18.1 L1.9,18.1 L1.9,8.6 L17.1,8.6 L17.1,18.1 L11.4,18.1 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+                </span>
+                <span  class="ico">首页</span>
+            </li>
+            <li data-to="fly">
+                <span>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18 18" version="1.1">
+                        <g stroke="none" stroke-width="1" fill-rule="evenodd">
+                            <g  transform="translate(-105.000000, -627.000000)">
+                                <g transform="translate(0.000000, 618.000000)">
+                                    <g transform="translate(103.000000, 4.000000)" >
+                                        <path d="M13.694526,18.080744 L13.694526,4.67924828 C13.694526,3.95097376 13.1090522,3.36920549 12.3868337,3.36920549 C11.65958,3.36920549 11.0791414,3.95573163 11.0791414,4.67924828 L11.0791414,18.080744 L8.46375677,20.2602311 L8.46375677,21.4044619 L12.3868337,20.5638026 L16.3099106,21.4044619 L16.3099106,20.2602311 L13.694526,18.080744 Z M3.88683369,15.9012568 L11.0791414,9.90766703 L11.0791414,14.1031798 L3.88683369,17.6993337 L3.88683369,15.9012568 Z M20.8868337,15.9012568 L13.694526,9.90766703 L13.694526,14.1031798 L20.8868337,17.6993337 L20.8868337,15.9012568 Z" transform="translate(12.386834, 12.386834) scale(-1, 1) rotate(-45.000000) translate(-12.386834, -12.386834) "></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+                </span>
+                <span class="ico">飞行</span>
+            </li>
+            <li data-to="vip">
+                <span>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"x="0px" y="0px"viewBox="0 0 19 13" enable-background="new 0 0 19 13" xml:space="preserve">
+                        <g>
+                            <g transform="translate(-225.000000, -1281.000000)">
+                                <g transform="translate(0.000000, 1269.000000)">
+                                    <g transform="translate(219.000000, 12.000000)">
+                                        <g transform="translate(6.000000, 0.000000)">
+                                            <path d="M2,0h15c1.104,0,2,0.896,2,2v9c0,1.104-0.896,2-2,2H2c-1.104,0-2-0.896-2-2V2       C0,0.896,0.896,0,2,0z"></path>
+                                            <rect y="3" width="19" height="1"></rect>
+                                            <path stroke="#FFFFFF" stroke-linecap="square" d="M3,10h5"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+                </span>
+                <span class="ico">金鹏卡</span></li>
+            <li data-to="profile">
+                <span>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 15 16" enable-background="new 0 0 15 16" xml:space="preserve">
+                        <g>
+                            <g transform="translate(-322.000000, -722.000000)">
+                                <g transform="translate(0.000000, 711.000000)">
+                                    <g transform="translate(319.000000, 11.000000)">
+                                        <g transform="translate(3.000000, 0.000000)">
+                                            <circle cx="7.385" cy="3.692" r="3.692"></circle>
+                                            <path d="M7.5,8.6C13.25,8.6,15,14,15,16c-1.75,0-12,0-15,0C0,14,1.75,8.6,7.5,8.6z"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+                </span>
+                <span class="ico">我的</span>
+            </li>
+        </ul>    
+    </footer>
+</div>

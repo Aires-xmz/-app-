@@ -1,0 +1,45 @@
+.moredes-container {
+  height: 100%;
+  .moredes-wrapper {
+    .moredes-list {
+      .moredes-item {
+        overflow: hidden;
+        margin: 0.5rem 0;
+        height: 7.5rem;
+        position: relative;
+        img {
+          position: absolute;
+          top: -3rem;
+          height: 13rem;
+          width: $w;
+        }
+        p {
+          position: absolute;
+          bottom: 0;
+          z-index: 1;
+          width: 74%;
+          height: 2.75rem;
+          border-radius: 0.125rem;
+          margin: 0 13%;
+          padding-left: 1rem;
+          background: rgba(59, 64, 79, 0.8);
+          display: flex;
+          justify-content: space-between;
+          span {
+            line-height: 2.75rem;
+            color: #fff;
+            font-size: 1rem;
+          }
+          img {
+            position: absolute;
+            height: 1.5rem;
+            width: auto;
+            top: 0.625rem;
+            right: 1.3125rem;
+            width: 1.5rem;
+          }
+        }
+      }
+    }
+  }
+}

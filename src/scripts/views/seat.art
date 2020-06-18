@@ -1,0 +1,23 @@
+<div class="seat-container">
+    <div class="seat-wrapper">
+        <div><img class="seat-hot" src="http://m.hnair.com/package/images/pic_seats_free_1.png"></div>
+        <div class="seat-hot-container">
+            <div><img class="seat-hot" src="http://m.hnair.com/package/images/pic_seats_free_2.png"></div>
+            <div class="seat-button"><span class="checkIn-home-button-text">预办登机（值机）</span></div>
+        </div>
+        <div class="seat-nice">
+            <div><img  class="seat-hot" src="http://m.hnair.com/package/images/pic_seats_free_3.png"></div>
+            <p>优选座位</p>
+            <div><img src="http://m.hnair.com/package/images/icon_arrow_red.svg"></div>
+        </div>
+        <div class="seat-title">
+            <div class="seat-title-tip">温馨提示：</div>
+            <div class="seat-content">
+                1.“预办登机（值机）”为您选定免费座位并办理登机手续，可办理国际、国内航班选座（值机）业务或者国内航班预约选座（值机）业务；<br>
+                2.办理国际航班选座（值机）业务，请确保您的护照有效期在最后一段行程航班出发日期之后6个月，如果不满足条件将存在无法出入境的风险；<br>
+                3.“优选座位”将为您提前锁定优质座位，可办理国内航班免费或积分选座、国际航班付费选座业务，后续需办理登机手续；<br>
+                4.国内航班除A、U、T舱位外均可在“优选座位”中办理提前选座，国际航班在“优选座位”中办理提前选座无舱位限制。
+            </div>
+        </div>
+    </div>
+</div>

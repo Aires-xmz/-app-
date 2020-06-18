@@ -1,0 +1,2309 @@
+{
+    "China": {
+        "A": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "阿尔山",
+                "AirPortCode": "YIE"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "阿克苏",
+                "AirPortCode": "AKU"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "阿拉善左旗",
+                "AirPortNameOther1": "阿拉善左旗巴彦浩特",
+                "AirPortCode": "AXF"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "阿勒泰",
+                "AirPortCode": "AAT"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "阿里",
+                "AirPortNameOther1": "阿里坤沙",
+                "AirPortCode": "NGQ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "安康",
+                "AirPortCode": "AKA"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "安庆",
+                "AirPortCode": "AQG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "鞍山",
+                "AirPortCode": "AOG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "安顺",
+                "AirPortCode": "AVA"
+            }
+        ],
+        "B": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "百色",
+                "AirPortCode": "AEB"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "保山",
+                "AirPortCode": "BSD"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "包头",
+                "AirPortCode": "BAV"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "巴彦淖尔",
+                "AirPortNameOther1": "巴彦淖尔天吉泰",
+                "AirPortCode": "RLK"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "北海",
+                "AirPortCode": "BHY"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "北京首都",
+                "AirPortNameOther1": "北京首都国际",
+                "AirPortCode": "PEK"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "北京大兴",
+                "AirPortNameOther1": "北京大兴",
+                "AirPortCode": "PKX"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "蚌埠",
+                "AirPortCode": "BFU"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "毕节",
+                "AirPortNameOther1": "毕节飞雄",
+                "AirPortCode": "BFJ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "博鳌",
+                "AirPortCode": "BAR"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "博乐",
+                "AirPortNameOther1": "新疆博乐",
+                "AirPortCode": "BPL"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "布尔津",
+                "AirPortCode": "KJI"
+            }
+        ],
+        "C": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "长白山",
+                "AirPortCode": "NBS"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "长春",
+                "AirPortCode": "CGQ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "常德",
+                "AirPortCode": "CGD"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "长沙",
+                "AirPortNameOther1": "长沙黄花",
+                "AirPortCode": "CSX"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "长治",
+                "AirPortCode": "CIH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "常州",
+                "AirPortCode": "CZX"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "朝阳",
+                "AirPortCode": "CHG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "承德",
+                "AirPortCode": "CDE"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "成都",
+                "AirPortCode": "CTU"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "赤峰",
+                "AirPortCode": "CIF"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "重庆",
+                "AirPortNameOther1": "重庆江北",
+                "AirPortCode": "CKG"
+            }
+        ],
+        "D": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "大理",
+                "AirPortCode": "DLU"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "大连",
+                "AirPortNameOther1": "大连周水子国际机场",
+                "AirPortCode": "DLC"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "丹东",
+                "AirPortCode": "DDG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "大同",
+                "AirPortCode": "DAT"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "大庆",
+                "AirPortNameOther1": "大庆萨尔图",
+                "AirPortCode": "DQA"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "达州",
+                "AirPortCode": "DAX"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "迪庆",
+                "AirPortCode": "DIG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "东营",
+                "AirPortCode": "DOY"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "敦煌",
+                "AirPortCode": "DNH"
+            }
+        ],
+        "E": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "鄂尔多斯",
+                "AirPortCode": "DSN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "恩施",
+                "AirPortCode": "ENH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "二连浩特",
+                "AirPortNameOther1": "二连浩特赛乌苏国际",
+                "AirPortCode": "ERL"
+            }
+        ],
+        "F": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "阜阳",
+                "AirPortCode": "FUG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "富蕴",
+                "AirPortCode": "FYN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "福州",
+                "AirPortCode": "FOC"
+            }
+        ],
+        "G": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "赣州",
+                "AirPortCode": "KOW"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "格尔木",
+                "AirPortCode": "GOQ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "广汉",
+                "AirPortCode": "GHN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "广州",
+                "AirPortNameOther1": "广州白云",
+                "AirPortCode": "CAN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "桂林",
+                "AirPortCode": "KWL"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "贵阳",
+                "AirPortCode": "KWE"
+            }
+        ],
+        "H": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "哈尔滨",
+                "AirPortCode": "HRB"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "海口",
+                "AirPortNameOther1": "海口美兰",
+                "AirPortCode": "HAK"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "海拉尔",
+                "AirPortCode": "HLD"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "哈密",
+                "AirPortCode": "HMI"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "邯郸",
+                "AirPortCode": "HDG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "杭州",
+                "AirPortNameOther1": "杭州萧山",
+                "AirPortCode": "HGH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "汉中",
+                "AirPortCode": "HZG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "合肥",
+                "AirPortCode": "HFE"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "黑河",
+                "AirPortCode": "HEK"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "衡阳",
+                "AirPortNameOther1": "衡阳南岳",
+                "AirPortCode": "HNY"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "和田",
+                "AirPortCode": "HTN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "淮安",
+                "AirPortNameOther1": "淮安涟水",
+                "AirPortCode": "HIA"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "怀化",
+                "AirPortCode": "HJJ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "黄山",
+                "AirPortCode": "TXN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "呼和浩特",
+                "AirPortCode": "HET"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "惠州",
+                "AirPortNameOther1": "惠州平潭",
+                "AirPortCode": "HUZ"
+            }
+        ],
+        "J": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "加格达奇",
+                "AirPortCode": "JGD"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "佳木斯",
+                "AirPortCode": "JMU"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "嘉峪关",
+                "AirPortCode": "JGN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "揭阳",
+                "AirPortCode": "SWA"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "吉林",
+                "AirPortCode": "JIL"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "济南",
+                "AirPortCode": "TNA"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "金昌",
+                "AirPortNameOther1": "金昌金川",
+                "AirPortCode": "JIC"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "景德镇",
+                "AirPortCode": "JDZ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "井冈山",
+                "AirPortCode": "JGS"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "景洪",
+                "AirPortCode": "JHG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "济宁",
+                "AirPortCode": "JNG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "锦州",
+                "AirPortCode": "JNZ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "九华山",
+                "AirPortCode": "JUH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "九江",
+                "AirPortCode": "JIU"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "酒泉",
+                "AirPortCode": "CHW"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "九寨沟",
+                "AirPortCode": "JZH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "鸡西",
+                "AirPortNameOther1": "兴凯湖",
+                "AirPortCode": "JXA"
+            }
+        ],
+        "K": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "喀纳斯",
+                "AirPortCode": "KJI"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "凯里",
+                "AirPortNameOther1": "凯里黄平",
+                "AirPortCode": "KJH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "喀什",
+                "AirPortCode": "KHG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "克拉玛依",
+                "AirPortCode": "KRY"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "库车",
+                "AirPortCode": "KCA"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "库尔勒",
+                "AirPortCode": "KRL"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "昆明",
+                "AirPortCode": "KMG"
+            }
+        ],
+        "L": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "澜沧",
+                "AirPortNameOther1": "澜沧景迈",
+                "AirPortCode": "JMJ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "兰州",
+                "AirPortCode": "LHW"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "拉萨",
+                "AirPortCode": "LXA"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "连云港",
+                "AirPortCode": "LYG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "荔波",
+                "AirPortCode": "LLB"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "丽江",
+                "AirPortNameOther1": "丽江三义",
+                "AirPortCode": "LJG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "临汾",
+                "AirPortNameOther1": "临汾乔李",
+                "AirPortCode": "LFQ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "临沂",
+                "AirPortCode": "LYI"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "林芝",
+                "AirPortCode": "LZY"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "黎平",
+                "AirPortCode": "HZH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "六盘水",
+                "AirPortNameOther1": "六盘水月照",
+                "AirPortCode": "LPF"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "柳州",
+                "AirPortCode": "LZH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "龙岩",
+                "AirPortCode": "LCX"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "泸沽湖",
+                "AirPortNameOther1": "宁蒗泸沽湖",
+                "AirPortCode": "NLH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "吕梁",
+                "AirPortCode": "LLV"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "洛阳",
+                "AirPortCode": "LYA"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "泸州",
+                "AirPortCode": "LZO"
+            }
+        ],
+        "M": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "芒市",
+                "AirPortCode": "LUM"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "满洲里",
+                "AirPortCode": "NZH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "梅州",
+                "AirPortNameOther1": "梅县",
+                "AirPortCode": "MXZ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "绵阳",
+                "AirPortCode": "MIG"
+            },
+            {
+                "AirPortName": "漠河",
+                "AirPortCode": "OHE"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "牡丹江",
+                "AirPortCode": "MDG"
+            }
+        ],
+        "N": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "那拉提",
+                "AirPortCode": "NLT"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "南昌",
+                "AirPortCode": "KHN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "南充",
+                "AirPortCode": "NAO"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "南京",
+                "AirPortCode": "NKG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "南宁",
+                "AirPortCode": "NNG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "南通",
+                "AirPortCode": "NTG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "南阳",
+                "AirPortCode": "NNY"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "宁波",
+                "AirPortCode": "NGB"
+            }
+        ],
+        "P": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "攀枝花",
+                "AirPortCode": "PZI"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "普洱",
+                "AirPortNameOther1": "普洱思茅",
+                "AirPortCode": "SYM"
+            }
+        ],
+        "Q": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "黔江",
+                "AirPortNameOther1": "武陵山",
+                "AirPortCode": "JIQ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "且末",
+                "AirPortCode": "IQM"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "青岛",
+                "AirPortCode": "TAO"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "庆阳",
+                "AirPortCode": "IQN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "秦皇岛北戴河",
+                "AirPortNameOther1": "秦皇岛北戴河国际",
+                "AirPortNameOther2": "秦皇岛",
+                "AirPortCode": "BPE"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "秦皇岛山海关",
+                "AirPortCode": "SHP"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "齐齐哈尔",
+                "AirPortCode": "NDG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "泉州",
+                "AirPortNameOther1": "泉州晋江国际",
+                "AirPortCode": "JJN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "衢州",
+                "AirPortCode": "JUZ"
+            }
+        ],
+        "R": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "日照",
+                "AirPortNameOther1": "日照山字河",
+                "AirPortCode": "RIZ"
+            }
+        ],
+        "S": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "三明",
+                "AirPortNameOther1": "三明沙县",
+                "AirPortCode": "SQJ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "三沙",
+                "AirPortCode": "XYI"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "三亚",
+                "AirPortCode": "SYX"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "上海虹桥",
+                "AirPortCode": "SHA"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "上海浦东",
+                "AirPortCode": "PVG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "沙市",
+                "AirPortCode": "SHS"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "沈阳",
+                "AirPortCode": "SHE"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "深圳",
+                "AirPortCode": "SZX"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "石家庄",
+                "AirPortCode": "SJW"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "十堰",
+                "AirPortNameOther1": "武当山",
+                "AirPortCode": "WDS"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "松原",
+                "AirPortNameOther1": "松原查干湖机场",
+                "AirPortCode": "YSQ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "苏州",
+                "AirPortCode": "SZV"
+            }
+        ],
+        "T": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "塔城",
+                "AirPortCode": "TCG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "太原",
+                "AirPortCode": "TYN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "台州",
+                "AirPortCode": "HYN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "唐山",
+                "AirPortCode": "TVS"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "腾冲",
+                "AirPortCode": "TCZ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "天津",
+                "AirPortCode": "TSN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "天水",
+                "AirPortCode": "THQ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "通化",
+                "AirPortCode": "TNH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "通辽",
+                "AirPortCode": "TGO"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "铜仁",
+                "AirPortCode": "TEN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "吐鲁番",
+                "AirPortNameOther1": "吐鲁番交河",
+                "AirPortCode": "TLQ"
+            }
+        ],
+        "W": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "潍坊",
+                "AirPortCode": "WEF"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "威海",
+                "AirPortCode": "WEH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "文山",
+                "AirPortCode": "WNH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "温州",
+                "AirPortCode": "WNZ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "乌海",
+                "AirPortCode": "WUA"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "武汉",
+                "AirPortCode": "WUH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "乌兰察布",
+                "AirPortNameOther1": "成吉思汗",
+                "AirPortCode": "UCB"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "乌兰浩特",
+                "AirPortCode": "HLH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "乌鲁木齐",
+                "AirPortCode": "URC"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "无锡",
+                "AirPortCode": "WUX"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "武夷山",
+                "AirPortCode": "WUS"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "梧州",
+                "AirPortCode": "WUZ"
+            }
+        ],
+        "X": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "厦门",
+                "AirPortCode": "XMN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "西安",
+                "AirPortNameOther1": "西安咸阳",
+                "AirPortCode": "XIY"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "西双版纳",
+                "AirPortCode": "JHG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "襄阳",
+                "AirPortCode": "XFN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "西昌",
+                "AirPortCode": "XIC"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "锡林浩特",
+                "AirPortCode": "XIL"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "兴义",
+                "AirPortCode": "ACX"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "西宁",
+                "AirPortCode": "XNN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "邢台",
+                "AirPortCode": "XNT"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "徐州",
+                "AirPortCode": "XUZ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "忻州",
+                "AirPortNameOther1": "五台山机场",
+                "AirPortCode": "WUT"
+            }
+        ],
+        "Y": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "延安",
+                "AirPortCode": "ENY"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "盐城",
+                "AirPortCode": "YNZ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "扬州",
+                "AirPortNameOther1": "扬州泰州",
+                "AirPortCode": "YTY"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "延吉",
+                "AirPortCode": "YNJ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "烟台",
+                "AirPortNameOther1": "烟台蓬莱国际",
+                "AirPortCode": "YNT"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "宜宾",
+                "AirPortCode": "YBP"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "宜昌",
+                "AirPortCode": "YIH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "宜春",
+                "AirPortNameOther1": "明月山",
+                "AirPortCode": "YIC"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "银川",
+                "AirPortCode": "INC"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "营口",
+                "AirPortNameOther1": "营口兰旗",
+                "AirPortCode": "YKH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "伊宁",
+                "AirPortCode": "YIN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "义乌",
+                "AirPortCode": "YIW"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "榆林",
+                "AirPortCode": "UYN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "运城",
+                "AirPortCode": "YCU"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "玉树",
+                "AirPortNameOther1": "玉树藏族自治州",
+                "AirPortCode": "YUS"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "岳阳",
+                "AirPortNameOther1": "岳阳三荷",
+                "AirPortCode": "YYA"
+            }
+        ],
+        "Z": [
+            {
+                "countryType": "domestic",
+                "AirPortName": "张家界",
+                "AirPortCode": "DYG"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "张家口",
+                "AirPortNameOther1": "张家口宁远",
+                "AirPortCode": "ZQZ"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "张掖",
+                "AirPortCode": "YZY"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "湛江",
+                "AirPortCode": "ZHA"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "昭通",
+                "AirPortCode": "ZAT"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "郑州",
+                "AirPortCode": "CGO"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "中卫",
+                "AirPortCode": "ZHY"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "舟山",
+                "AirPortCode": "HSN"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "珠海",
+                "AirPortNameOther1": "珠海金湾",
+                "AirPortCode": "ZUH"
+            },
+            {
+                "countryType": "domestic",
+                "AirPortName": "遵义",
+                "AirPortCode": "ZYI"
+            }
+        ]
+    },
+    "Asia": {
+        "A": [
+            {
+                "AirPortName": "阿布扎比",
+                "AirPortCode": "AUH"
+            },
+            {
+                "AirPortName": "阿拉木图",
+                "AirPortCode": "ALA"
+            },
+            {
+                "AirPortName": "阿斯塔纳",
+                "AirPortNameOther1": "阿斯塔纳国际",
+                "AirPortCode": "TSE"
+            },
+            {
+                "AirPortName": "澳门（中国）",
+                "AirPortNameOther1": "澳门",
+                "AirPortCode": "MFM"
+            }
+        ],
+        "B": [
+            {
+                "AirPortName": "巴库",
+                "AirPortCode": "BAK"
+            },
+            {
+                "AirPortName": "巴厘岛",
+                "AirPortNameOther1": "巴厘岛国际",
+                "AirPortCode": "DPS"
+            },
+            {
+                "AirPortName": "芭提雅",
+                "AirPortCode": "UTP"
+            },
+            {
+                "AirPortName": "比什凯克",
+                "AirPortCode": "FRU"
+            },
+            {
+                "AirPortName": "布哈拉",
+                "AirPortCode": "BHK"
+            },
+            {
+                "AirPortName": "槟城",
+                "AirPortNameOther1": "槟城国际",
+                "AirPortCode": "PEN"
+            }
+        ],
+        "C": [
+            {
+                "AirPortName": "冲绳",
+                "AirPortNameOther1": "那霸",
+                "AirPortCode": "OKA"
+            }
+        ],
+        "D": [
+            {
+                "AirPortName": "大阪",
+                "AirPortCode": "KIX"
+            },
+            {
+                "AirPortName": "东京成田",
+                "AirPortNameOther1": "东京成田国际",
+                "AirPortCode": "NRT"
+            },
+            {
+                "AirPortName": "东京羽田",
+                "AirPortNameOther1": "东京羽田国际",
+                "AirPortCode": "HND"
+            },
+            {
+                "AirPortName": "迪拜",
+                "AirPortCode": "DXB"
+            }
+        ],
+        "F": [
+            {
+                "AirPortName": "釜山",
+                "AirPortCode": "PUS"
+            }
+        ],
+        "G": [
+            {
+                "AirPortName": "甘贾",
+                "AirPortCode": "KVD"
+            }
+        ],
+        "H": [
+            {
+                "AirPortName": "函馆",
+                "AirPortCode": "HKD"
+            },
+            {
+                "AirPortName": "河内",
+                "AirPortCode": "HAN"
+            }
+        ],
+        "J": [
+            {
+                "AirPortName": "金边",
+                "AirPortNameOther1": "金边国际机场",
+                "AirPortCode": "PNH"
+            },
+            {
+                "AirPortName": "吉隆坡",
+                "AirPortNameOther1": "吉隆坡国际",
+                "AirPortCode": "KUL"
+            },
+            {
+                "AirPortName": "加尔各答",
+                "AirPortCode": "CCU"
+            },
+            {
+                "AirPortName": "静冈",
+                "AirPortNameOther1": "富士山静冈国际机场",
+                "AirPortCode": "FSZ"
+            },
+            {
+                "AirPortName": "济州",
+                "AirPortCode": "CJU"
+            }
+        ],
+        "K": [
+            {
+                "AirPortName": "科伦坡",
+                "AirPortCode": "CMB"
+            }
+        ],
+        "L": [
+            {
+                "AirPortName": "琅勃拉邦",
+                "AirPortNameOther1": "琅勃拉邦国际机场",
+                "AirPortCode": "LPQ"
+            },
+            {
+                "AirPortName": "鹿儿岛",
+                "AirPortCode": "KOJ"
+            },
+            {
+                "AirPortName": "兰卡威",
+                "AirPortNameOther1": "兰卡威国际机场",
+                "AirPortCode": "LGK"
+            }
+        ],
+        "M": [
+            {
+                "AirPortName": "马累",
+                "AirPortCode": "MLE"
+            },
+            {
+                "AirPortName": "曼谷",
+                "AirPortCode": "BKK"
+            },
+            {
+                "AirPortName": "孟买",
+                "AirPortCode": "BOM"
+            },
+            {
+                "AirPortName": "马尼拉",
+                "AirPortCode": "MNL"
+            }
+        ],
+        "P": [
+            {
+                "AirPortName": "澎湖（中国）",
+                "AirPortNameOther1": "七美",
+                "AirPortCode": "CMJ"
+            },
+            {
+                "AirPortName": "普吉",
+                "AirPortCode": "HKT"
+            }
+        ],
+        "Q": [
+            {
+                "AirPortName": "清莱",
+                "AirPortNameOther1": "清莱国际",
+                "AirPortCode": "CEI"
+            },
+            {
+                "AirPortName": "清迈",
+                "AirPortNameOther1": "清迈国际机场",
+                "AirPortCode": "CNX"
+            },
+            {
+                "AirPortName": "奇姆肯特",
+                "AirPortCode": "CIT"
+            }
+        ],
+        "S": [
+            {
+                "AirPortName": "沙巴",
+                "AirPortNameOther1": "亚庇国际",
+                "AirPortCode": "BKI"
+            },
+            {
+                "AirPortName": "首尔金浦",
+                "AirPortCode": "GMP"
+            },
+            {
+                "AirPortName": "首尔仁川",
+                "AirPortNameOther1": "首尔仁川国际",
+                "AirPortCode": "ICN"
+            },
+            {
+                "AirPortName": "斯里巴加湾",
+                "AirPortNameOther1": "文莱国际",
+                "AirPortCode": "BWN"
+            },
+            {
+                "AirPortName": "苏梅岛",
+                "AirPortNameOther1": "苏梅岛国际",
+                "AirPortCode": "USM"
+            },
+            {
+                "AirPortName": "宿务",
+                "AirPortNameOther1": "宿务国际",
+                "AirPortCode": "CEB"
+            }
+        ],
+        "T": [
+            {
+                "AirPortName": "塔什干",
+                "AirPortCode": "TAS"
+            },
+            {
+                "AirPortName": "台北松山（中国）",
+                "AirPortCode": "TSA"
+            },
+            {
+                "AirPortName": "台北桃园（中国）",
+                "AirPortCode": "TPE"
+            },
+            {
+                "AirPortName": "特拉维夫",
+                "AirPortCode": "TLV"
+            }
+        ],
+        "W": [
+            {
+                "AirPortName": "万象",
+                "AirPortNameOther1": "瓦岱国际机场",
+                "AirPortCode": "VTE"
+            },
+            {
+                "AirPortName": "乌兰巴托",
+                "AirPortCode": "ULN"
+            }
+        ],
+        "X": [
+            {
+                "AirPortName": "岘港",
+                "AirPortCode": "DAD"
+            },
+            {
+                "AirPortName": "香港（中国）",
+                "AirPortCode": "HKG"
+            },
+            {
+                "AirPortName": "暹粒",
+                "AirPortNameOther1": "暹粒-吴哥国际机场",
+                "AirPortCode": "REP"
+            },
+            {
+                "AirPortName": "西哈努克",
+                "AirPortNameOther1": "西哈努克国际",
+                "AirPortCode": "KOS"
+            },
+            {
+                "AirPortName": "新加坡",
+                "AirPortCode": "SIN"
+            }
+        ],
+        "Y": [
+            {
+                "AirPortName": "仰光",
+                "AirPortNameOther1": "仰光国际",
+                "AirPortCode": "RGN"
+            },
+            {
+                "AirPortName": "芽庄",
+                "AirPortNameOther1": "金兰",
+                "AirPortCode": "CXR"
+            }
+        ],
+        "Z": [
+            {
+                "AirPortName": "札幌",
+                "AirPortNameOther1": "札幌新千岁",
+                "AirPortCode": "CTS"
+            }
+        ]
+    },
+    "Europe": {
+        "A": [
+            {
+                "AirPortName": "阿姆斯特丹",
+                "AirPortCode": "AMS"
+            },
+            {
+                "AirPortName": "阿伯丁",
+                "AirPortCode": "ABZ"
+            },
+            {
+                "AirPortName": "爱丁堡",
+                "AirPortCode": "EDI"
+            },
+            {
+                "AirPortName": "埃克塞特",
+                "AirPortNameOther1": "埃克塞特国际",
+                "AirPortCode": "EXT"
+            },
+            {
+                "AirPortName": "埃森",
+                "AirPortCode": "ES1"
+            },
+            {
+                "AirPortName": "奥斯陆",
+                "AirPortCode": "OSL"
+            }
+        ],
+        "B": [
+            {
+                "AirPortName": "巴黎",
+                "AirPortNameOther1": "巴黎夏尔·戴高乐国际",
+                "AirPortNameOther2": "巴黎奥利",
+                "AirPortCode": "PAR"
+            },
+            {
+                "AirPortName": "巴塞罗那",
+                "AirPortCode": "BCN"
+            },
+            {
+                "AirPortName": "贝尔法斯特",
+                "AirPortNameOther1": "乔治贝尔法斯特市",
+                "AirPortNameOther2": "贝尔法斯特市",
+                "AirPortCode": "BFS"
+            },
+            {
+                "AirPortName": "贝尔格莱德",
+                "AirPortCode": "BEG"
+            },
+            {
+                "AirPortName": "贝尔热拉克",
+                "AirPortCode": "EGC"
+            },
+            {
+                "AirPortName": "毕尔巴鄂",
+                "AirPortCode": "BIO"
+            },
+            {
+                "AirPortName": "波茨坦",
+                "AirPortCode": "PO1"
+            },
+            {
+                "AirPortName": "波恩",
+                "AirPortCode": "BN1"
+            },
+            {
+                "AirPortName": "波鸿",
+                "AirPortCode": "BO1"
+            },
+            {
+                "AirPortName": "波尔图",
+                "AirPortNameOther": "弗朗西斯科卡内罗机场",
+                "AirPortCode": "OPO"
+            },
+            {
+                "AirPortName": "柏林",
+                "AirPortNameOther1": "柏林泰格尔国际",
+                "AirPortNameOther2": "肖尔内菲尔德",
+                "AirPortCode": "TXL"
+            },
+            {
+                "AirPortName": "伯明翰",
+                "AirPortCode": "BHX"
+            },
+            {
+                "AirPortName": "布达佩斯",
+                "AirPortCode": "BUD"
+            },
+            {
+                "AirPortName": "布加勒斯特",
+                "AirPortCode": "BUH"
+            },
+            {
+                "AirPortName": "布拉格",
+                "AirPortCode": "PRG"
+            },
+            {
+                "AirPortName": "布里斯托尔",
+                "AirPortCode": "BRS"
+            },
+            {
+                "AirPortName": "布鲁塞尔",
+                "AirPortCode": "BRU"
+            }
+        ],
+        "C": [
+            {
+                "AirPortName": "赤塔",
+                "AirPortCode": "HTA"
+            }
+        ],
+        "D": [
+            {
+                "AirPortName": "德累斯特",
+                "AirPortCode": "DR1"
+            },
+            {
+                "AirPortName": "都柏林",
+                "AirPortCode": "DUB"
+            },
+            {
+                "AirPortName": "杜伊斯堡",
+                "AirPortCode": "DU1"
+            },
+            {
+                "AirPortName": "多特蒙德",
+                "AirPortCode": "DTM"
+            },
+            {
+                "AirPortName": "杜塞尔多夫",
+                "AirPortCode": "DUS"
+            }
+        ],
+        "E": [
+            {
+                "AirPortName": "俄斯特拉发",
+                "AirPortCode": "OSR"
+            }
+        ],
+        "F": [
+            {
+                "AirPortName": "法兰克福",
+                "AirPortCode": "FRA"
+            },
+            {
+                "AirPortName": "法鲁",
+                "AirPortCode": "FAO"
+            },
+            {
+                "AirPortName": "丰沙尔",
+                "AirPortCode": "FNC"
+            },
+            {
+                "AirPortName": "佛罗伦萨",
+                "AirPortCode": "FLR"
+            }
+        ],
+        "G": [
+            {
+                "AirPortName": "哥本哈根",
+                "AirPortCode": "CPH"
+            },
+            {
+                "AirPortName": "哥德堡",
+                "AirPortCode": "GOT"
+            },
+            {
+                "AirPortName": "格拉斯哥",
+                "AirPortNameOther1": "格拉斯哥国际",
+                "AirPortCode": "GLA"
+            }
+        ],
+        "H": [
+            {
+                "AirPortName": "哈巴罗夫斯克",
+                "AirPortCode": "KHV"
+            },
+            {
+                "AirPortName": "哈根",
+                "AirPortCode": "HG1"
+            },
+            {
+                "AirPortName": "海德堡",
+                "AirPortCode": "HEI"
+            },
+            {
+                "AirPortName": "汉堡",
+                "AirPortCode": "HAM"
+            },
+            {
+                "AirPortName": "汉诺威",
+                "AirPortCode": "HAJ"
+            },
+            {
+                "AirPortName": "赫尔辛基",
+                "AirPortCode": "HEL"
+            },
+            {
+                "AirPortName": "华沙",
+                "AirPortCode": "WAW"
+            },
+            {
+                "AirPortName": "霍夫",
+                "AirPortCode": "HF1"
+            }
+        ],
+        "J": [
+            {
+                "AirPortName": "基辅",
+                "AirPortCode": "KBP"
+            },
+            {
+                "AirPortName": "基尔",
+                "AirPortCode": "JE1"
+            }
+        ],
+        "K": [
+            {
+                "AirPortName": "康诺特",
+                "AirPortCode": "NOC"
+            },
+            {
+                "AirPortName": "科隆",
+                "AirPortCode": "CGN"
+            },
+            {
+                "AirPortName": "克拉斯诺亚尔斯克",
+                "AirPortCode": "KJA"
+            }
+        ],
+        "L": [
+            {
+                "AirPortName": "里加",
+                "AirPortCode": "RIX"
+            },
+            {
+                "AirPortName": "雷恩",
+                "AirPortCode": "RNS"
+            },
+            {
+                "AirPortName": "里昂",
+                "AirPortCode": "LYS"
+            },
+            {
+                "AirPortName": "里斯本",
+                "AirPortNameOther1": "里斯本博尔特拉",
+                "AirPortCode": "LIS"
+            },
+            {
+                "AirPortName": "伦敦城市",
+                "AirPortCode": "LCY"
+            },
+            {
+                "AirPortName": "伦敦盖特威克",
+                "AirPortNameOther1": "伦敦盖特威克国际",
+                "AirPortCode": "LGW"
+            },
+            {
+                "AirPortName": "伦敦斯坦斯特德",
+                "AirPortCode": "STN"
+            },
+            {
+                "AirPortName": "伦敦希思罗",
+                "AirPortCode": "LHR"
+            },
+            {
+                "AirPortName": "罗马",
+                "AirPortCode": "FCO"
+            },
+            {
+                "AirPortName": "鹿特丹",
+                "AirPortNameOther1": "鹿特丹国际",
+                "AirPortCode": "RTM"
+            }
+        ],
+        "M": [
+            {
+                "AirPortName": "马德里",
+                "AirPortCode": "MAD"
+            },
+            {
+                "AirPortName": "马恩岛",
+                "AirPortCode": "IOM"
+            },
+            {
+                "AirPortName": "马拉加",
+                "AirPortCode": "AGP"
+            },
+            {
+                "AirPortName": "曼彻斯特",
+                "AirPortCode": "MAN"
+            },
+            {
+                "AirPortName": "马赛",
+                "AirPortCode": "MRS"
+            },
+            {
+                "AirPortName": "米兰",
+                "AirPortNameOther1": "米兰利纳特",
+                "AirPortNameOther2": "米兰马尔彭萨",
+                "AirPortCode": "MXP"
+            },
+            {
+                "AirPortName": "莫斯科",
+                "AirPortNameOther1": "莫斯科多莫杰多沃",
+                "AirPortNameOther2": "莫斯科谢列梅捷沃国际",
+                "AirPortCode": "DME"
+            },
+            {
+                "AirPortName": "慕尼黑",
+                "AirPortCode": "MUC"
+            }
+        ],
+        "N": [
+            {
+                "AirPortName": "南安普顿",
+                "AirPortCode": "SOU"
+            },
+            {
+                "AirPortName": "南特",
+                "AirPortCode": "NTE"
+            },
+            {
+                "AirPortName": "尼斯",
+                "AirPortCode": "NCE"
+            },
+            {
+                "AirPortName": "纽基",
+                "AirPortCode": "NQY"
+            },
+            {
+                "AirPortName": "纽伦堡",
+                "AirPortCode": "NUE"
+            },
+            {
+                "AirPortName": "诺里奇",
+                "AirPortCode": "NWI"
+            }
+        ],
+        "P": [
+            {
+                "AirPortName": "帕德博恩",
+                "AirPortCode": "PAD"
+            }
+        ],
+        "R": [
+            {
+                "AirPortName": "日内瓦",
+                "AirPortCode": "GVA"
+            }
+        ],
+        "S": [
+            {
+                "AirPortName": "萨尔布吕肯",
+                "AirPortCode": "SCN"
+            },
+            {
+                "AirPortName": "萨格勒布",
+                "AirPortCode": "ZAG"
+            },
+            {
+                "AirPortName": "圣彼得堡",
+                "AirPortCode": "LED"
+            },
+            {
+                "AirPortName": "斯德哥尔摩阿兰达",
+                "AirPortCode": "ARN"
+            },
+            {
+                "AirPortName": "斯德哥尔摩布鲁玛",
+                "AirPortCode": "BMA"
+            },
+            {
+                "AirPortName": "斯图加特",
+                "AirPortCode": "STR"
+            },
+            {
+                "AirPortName": "苏黎世",
+                "AirPortCode": "ZRH"
+            }
+        ],
+        "T": [
+            {
+                "AirPortName": "图卢兹",
+                "AirPortCode": "TLS"
+            }
+        ],
+        "W": [
+            {
+                "AirPortName": "威尼斯",
+                "AirPortCode": "VCE"
+            },
+            {
+                "AirPortName": "维也纳",
+                "AirPortCode": "VIE"
+            }
+        ],
+        "X": [
+            {
+                "AirPortName": "新西伯利亚",
+                "AirPortCode": "OVB"
+            }
+        ],
+        "Y": [
+            {
+                "AirPortName": "雅典",
+                "AirPortCode": "ATH"
+            },
+            {
+                "AirPortName": "伊尔库茨克",
+                "AirPortCode": "IKT"
+            },
+            {
+                "AirPortName": "伊斯坦布尔",
+                "AirPortCode": "IST"
+            },
+            {
+                "AirPortName": "因弗内斯",
+                "AirPortCode": "INV"
+            }
+        ],
+        "Z": [
+            {
+                "AirPortName": "泽西岛",
+                "AirPortNameOther1": "泽西",
+                "AirPortCode": "JER"
+            }
+        ]
+    },
+    "America": {
+        "A": [
+            {
+                "AirPortName": "埃德蒙顿",
+                "AirPortCode": "YEG"
+            },
+            {
+                "AirPortName": "安克雷奇",
+                "AirPortCode": "ANC"
+            },
+            {
+                "AirPortName": "奥克兰（美国）",
+                "AirPortNameOther1": "奥克兰国际（美国）",
+                "AirPortCode": "OAK"
+            },
+            {
+                "AirPortName": "奥兰多",
+                "AirPortNameOther1": "奥兰多国际",
+                "AirPortCode": "MCO"
+            },
+            {
+                "AirPortName": "奥斯汀",
+                "AirPortNameOther1": "奥斯汀国际",
+                "AirPortCode": "AUS"
+            }
+        ],
+        "B": [
+            {
+                "AirPortName": "波士顿",
+                "AirPortCode": "BOS"
+            },
+            {
+                "AirPortName": "波特兰",
+                "AirPortCode": "PDX"
+            },
+            {
+                "AirPortName": "博兹曼",
+                "AirPortCode": "BZN"
+            },
+            {
+                "AirPortName": "博伊西",
+                "AirPortCode": "BOI"
+            }
+        ],
+        "D": [
+            {
+                "AirPortName": "达拉斯",
+                "AirPortNameOther1": "达拉斯渥斯堡国际",
+                "AirPortCode": "DFW"
+            },
+            {
+                "AirPortName": "丹佛",
+                "AirPortCode": "DEN"
+            },
+            {
+                "AirPortName": "蒂华纳",
+                "AirPortCode": "TIJ"
+            },
+            {
+                "AirPortName": "多伦多",
+                "AirPortNameOther1": "多伦多皮尔逊国际",
+                "AirPortCode": "YYZ"
+            }
+        ],
+        "F": [
+            {
+                "AirPortName": "费城",
+                "AirPortNameOther1": "费城国际",
+                "AirPortCode": "PHL"
+            },
+            {
+                "AirPortName": "菲尼克斯",
+                "AirPortCode": "PHX"
+            }
+        ],
+        "H": [
+            {
+                "AirPortName": "哈利法克斯",
+                "AirPortNameOther1": "哈利法克斯国际",
+                "AirPortCode": "YHZ"
+            },
+            {
+                "AirPortName": "华盛顿",
+                "AirPortNameOther1": "华盛顿杜勒斯国际",
+                "AirPortNameOther2": "华盛顿国家",
+                "AirPortCode": "DCA"
+            }
+        ],
+        "J": [
+            {
+                "AirPortName": "基奇纳",
+                "AirPortCode": "YKF"
+            },
+            {
+                "AirPortName": "旧金山",
+                "AirPortCode": "SFO"
+            }
+        ],
+        "K": [
+            {
+                "AirPortName": "卡尔加里",
+                "AirPortNameOther1": "卡尔加里国际",
+                "AirPortCode": "YYC"
+            },
+            {
+                "AirPortName": "堪萨斯城",
+                "AirPortCode": "MCI"
+            },
+            {
+                "AirPortName": "魁北克",
+                "AirPortCode": "YQB"
+            }
+        ],
+        "L": [
+            {
+                "AirPortName": "拉斯维加斯",
+                "AirPortCode": "LAS"
+            },
+            {
+                "AirPortName": "雷诺",
+                "AirPortNameOther1": "雷诺国际机场",
+                "AirPortCode": "RNO"
+            },
+            {
+                "AirPortName": "雷湾",
+                "AirPortCode": "YQT"
+            },
+            {
+                "AirPortName": "里约热内卢",
+                "AirPortNameOther1": "里约热内卢国际",
+                "AirPortCode": "GIG"
+            },
+            {
+                "AirPortName": "洛杉矶",
+                "AirPortCode": "LAX"
+            }
+        ],
+        "M": [
+            {
+                "AirPortName": "米苏拉",
+                "AirPortCode": "MSO"
+            },
+            {
+                "AirPortName": "迈阿密",
+                "AirPortCode": "MIA"
+            },
+            {
+                "AirPortName": "蒙克顿",
+                "AirPortCode": "YQM"
+            },
+            {
+                "AirPortName": "蒙特利尔",
+                "AirPortCode": "YUL"
+            },
+            {
+                "AirPortName": "明尼阿波利斯",
+                "AirPortNameOther1": "明尼阿波利斯—圣保罗国际",
+                "AirPortCode": "MSP"
+            },
+            {
+                "AirPortName": "墨西哥城",
+                "AirPortNameOther1": "墨西哥城国际",
+                "AirPortCode": "MEX"
+            }
+        ],
+        "N": [
+            {
+                "AirPortName": "纽约",
+                "AirPortNameOther1": "纽约肯尼迪",
+                "AirPortNameOther2": "纽约拉瓜迪亚",
+                "AirPortNameOther3": "纽约纽瓦克自由国际",
+                "AirPortCode": "JFK"
+            }
+        ],
+        "P": [
+            {
+                "AirPortName": "匹兹堡",
+                "AirPortCode": "PIT"
+            },
+            {
+                "AirPortName": "帕斯科",
+                "AirPortCode": "PSC"
+            },
+            {
+                "AirPortName": "普尔曼",
+                "AirPortCode": "PUW"
+            }
+        ],
+        "S": [
+            {
+                "AirPortName": "塞班",
+                "AirPortNameOther1": "塞班岛科布勒国际机场",
+                "AirPortCode": "SPN"
+            },
+            {
+                "AirPortName": "萨克拉门托",
+                "AirPortCode": "SMF"
+            },
+            {
+                "AirPortName": "萨斯卡通",
+                "AirPortCode": "YXE"
+            },
+            {
+                "AirPortName": "圣保罗",
+                "AirPortNameOther1": "瓜鲁尔霍斯国际",
+                "AirPortNameOther2": "维拉科波斯机场",
+                "AirPortCode": "SAO"
+            },
+            {
+                "AirPortName": "圣何塞（美国）",
+                "AirPortCode": "SJC"
+            },
+            {
+                "AirPortName": "圣约翰斯",
+                "AirPortNameOther1": "圣约翰斯国际",
+                "AirPortCode": "YYT"
+            },
+            {
+                "AirPortName": "圣迭戈",
+                "AirPortNameOther1": "圣迭戈国际",
+                "AirPortCode": "SAN"
+            },
+            {
+                "AirPortName": "圣路易斯",
+                "AirPortNameOther1": "兰伯特—圣路易斯国际",
+                "AirPortCode": "STL"
+            },
+            {
+                "AirPortName": "斯波坎",
+                "AirPortCode": "GEG"
+            }
+        ],
+        "W": [
+            {
+                "AirPortName": "温哥华",
+                "AirPortCode": "YVR"
+            },
+            {
+                "AirPortName": "温尼伯",
+                "AirPortCode": "YWG"
+            },
+            {
+                "AirPortName": "渥太华",
+                "AirPortCode": "YOW"
+            }
+        ],
+        "X": [
+            {
+                "AirPortName": "夏洛特敦",
+                "AirPortNameOther1": "夏洛特敦机场",
+                "AirPortCode": "YYG"
+            },
+            {
+                "AirPortName": "夏威夷",
+                "AirPortCode": "HNL"
+            },
+            {
+                "AirPortName": "休斯顿",
+                "AirPortCode": "IAH"
+            },
+            {
+                "AirPortName": "西雅图",
+                "AirPortCode": "SEA"
+            }
+        ],
+        "Y": [
+            {
+                "AirPortName": "盐湖城",
+                "AirPortNameOther1": "盐湖城国际",
+                "AirPortCode": "SLC"
+            },
+            {
+                "AirPortName": "亚特兰大",
+                "AirPortCode": "ATL"
+            },
+            {
+                "AirPortName": "尤金",
+                "AirPortCode": "EUG"
+            }
+        ],
+        "Z": [
+            {
+                "AirPortName": "芝加哥",
+                "AirPortCode": "ORD"
+            }
+        ]
+    },
+    "Africa": {
+        "A": [
+            {
+                "AirPortName": "阿比让",
+                "AirPortCode": "ABJ"
+            }
+        ],
+        "B": [
+            {
+                "AirPortName": "班珠尔",
+                "AirPortCode": "BJL"
+            }
+        ],
+        "D": [
+            {
+                "AirPortName": "达尔贝达",
+                "AirPortCode": "CMN"
+            },
+            {
+                "AirPortName": "达喀尔",
+                "AirPortCode": "DKR"
+            }
+        ],
+        "F": [
+            {
+                "AirPortName": "弗里敦",
+                "AirPortCode": "FNA"
+            }
+        ],
+        "J": [
+            {
+                "AirPortName": "金沙萨",
+                "AirPortCode": "FIH"
+            }
+        ],
+        "K": [
+            {
+                "AirPortName": "科纳克里",
+                "AirPortCode": "CKY"
+            },
+            {
+                "AirPortName": "卡萨布兰卡",
+                "AirPortCode": "CMN"
+            }
+        ],
+        "L": [
+            {
+                "AirPortName": "罗安达",
+                "AirPortCode": "LAD"
+            }
+        ],
+        "M": [
+            {
+                "AirPortName": "蒙罗维亚",
+                "AirPortCode": "ROB"
+            }
+        ],
+        "N": [
+            {
+                "AirPortName": "内罗毕",
+                "AirPortCode": "NOB"
+            }
+        ],
+        "Y": [
+            {
+                "AirPortName": "亚的斯亚贝巴",
+                "AirPortCode": "ADD"
+            },
+            {
+                "AirPortName": "雅温得",
+                "AirPortCode": "NSI"
+            }
+        ]
+    },
+    "Oceania": {
+        "A": [
+            {
+                "AirPortName": "阿德莱德",
+                "AirPortCode": "ADL"
+            },
+            {
+                "AirPortName": "奥克兰（新西兰）",
+                "AirPortNameOther1": "奥克兰国际（新西兰）",
+                "AirPortCode": "AKL"
+            }
+        ],
+        "B": [
+            {
+                "AirPortName": "布里斯班",
+                "AirPortCode": "BNE"
+            }
+        ],
+        "D": [
+            {
+                "AirPortName": "达尔文",
+                "AirPortNameOther1": "达尔文国际",
+                "AirPortCode": "DRW"
+            }
+        ],
+        "H": [
+            {
+                "AirPortName": "汉密尔顿",
+                "AirPortNameOther1": "汉密尔顿岛",
+                "AirPortCode": "HTI"
+            },
+            {
+                "AirPortName": "黄金海岸",
+                "AirPortCode": "OOL"
+            },
+            {
+                "AirPortName": "惠灵顿",
+                "AirPortCode": "WLG"
+            },
+            {
+                "AirPortName": "霍巴特",
+                "AirPortCode": "HBA"
+            }
+        ],
+        "J": [
+            {
+                "AirPortName": "基督城",
+                "AirPortNameOther1": "基督城国际",
+                "AirPortCode": "CHC"
+            }
+        ],
+        "K": [
+            {
+                "AirPortName": "凯恩斯",
+                "AirPortNameOther1": "凯恩斯国际",
+                "AirPortCode": "CNS"
+            },
+            {
+                "AirPortName": "堪培拉",
+                "AirPortNameOther1": "堪培拉国际",
+                "AirPortCode": "CBR"
+            }
+        ],
+        "L": [
+            {
+                "AirPortName": "朗塞斯顿",
+                "AirPortCode": "LST"
+            }
+        ],
+        "M": [
+            {
+                "AirPortName": "墨尔本",
+                "AirPortCode": "MEL"
+            }
+        ],
+        "P": [
+            {
+                "AirPortName": "珀斯",
+                "AirPortNameOther1": "珀斯国际",
+                "AirPortCode": "PER"
+            }
+        ],
+        "X": [
+            {
+                "AirPortName": "悉尼",
+                "AirPortNameOther1": "悉尼金斯福德·史密斯国际",
+                "AirPortCode": "SYD"
+            }
+        ]
+    }
+}

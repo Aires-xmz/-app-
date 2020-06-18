@@ -1,0 +1,148 @@
+<div class="reserve-container">
+    <div class="reserve-route-type font_14">
+        <span class="reserve-route-select-type">单程</span>
+        <span>往返</span>
+    </div>
+    <div class="reserve-book-type font_12">
+        <div>
+            <span class="reserve-book-select-type">现金预订</span>
+            <span class="reserve-book-unselect-type">积分兑换</span>
+        </div>
+    </div>
+    <div class="reserve-body">
+        <div class="reserve-row ">
+                <div>
+                    <div class="reserve-row-label">
+                        <p>从</p>
+                    </div>
+                    <div class="reserve-row-input departure" data-to="citylist">
+                        <% if( departure != 'true' && departure != '' && departure != null){ %> 
+                            {{departure}}
+                        <% } else{ %>
+                            海口
+                        <% } %>
+                    </div>
+                </div>
+                <div>
+                    <div class="reserve-row-label">
+                        <p>飞往</p>
+                    </div>
+                    <div class="reserve-row-input destination" data-to="citylist">
+                        <% if( destination != 'true' && destination != '' && destination != null){ %> 
+                            {{destination}}
+                        <% } else{ %>
+                            大连
+                        <% } %>
+                    </div>
+                </div>
+                <div class="swap"><img src="http://m.hnair.com/package/images/swap.svg"></div>
+        </div>
+        <div class="reserve-row reserve-passenger">
+            <div>
+                <div class="reserve-row-label">乘客</div>
+                <div class="reserve-row-input reserve-passgener-ct ">
+                    <div>
+                        <span class="font_24 passenger-adult">1</span>
+                        <span class="font_14">成人</span>
+                    </div>
+                    <div>
+                        <span class="font_24 passenger-child">0</span>
+                        <span class="font_14">儿童</span>
+                    </div>
+                    <div class="baby">
+                        <span class="font_24 passenger-baby">0</span>
+                        <span class="font_14">婴儿</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="reserve-row choose-seat-level">
+            <div>
+                <div class="reserve-row-label">舱位选择</div>
+                <div class="reserve-row-input choose-level">
+                    <div class="reserve-seat-level font_18">经济舱</div>
+                    <img src="http://m.hnair.com/package/images/arrow_gray_downward.svg">
+                </div>
+            </div>
+        </div>
+        
+        <div class="reserve-row go-dates" data-to="datechoose">
+            <div>
+                <div class="reserve-row-label">出发日期</div>
+                <div class="iDate date">
+                    <input type="text" class="date-selected">
+                    <button type="button" class="addOn"></button>
+                </div>
+            </div>
+        </div>
+        <div class="reserve-row return-dates" data-to="datechoose">
+            <div>
+                <div class="reserve-row-label">返回日期</div>
+                <div class="iDate date">
+                    <input type="text" class="date-selected">
+                    <button type="button" class="addOn"></button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="reserve-search">
+            <button class="reserve-book-query-btn">查询机票</button>
+        </div>
+    </div>
+</div>
+<div class="passenger-container">
+    <div class="passenger-wrapper">
+        <div class="number">
+            <div>
+                <div class="passenger-tit">成人</div>
+                <div class="passenger-addorminus">
+                    <div class="pimg minus"> - </div>
+                    <span class="select-adult">1</span>
+                    <div class="pimg add"> + </div>
+                </div>
+            </div>
+            <div>
+                <div class="passenger-tit">儿童</div>
+                <div class="passenger-addorminus">
+                    <div class="pimg minus"> - </div>
+                    <span class="select-child">0</span>
+                    <div class="pimg add"> + </div>
+                </div>
+            </div>
+            <div class="pas-baby">
+                <div class="passenger-tit">婴儿</div>
+                <div class="passenger-addorminus">
+                    <div class="pimg minus"> ‐ </div>
+                    <span class="select-baby">0</span>
+                    <div class="pimg add"> + </div>
+                </div>
+            </div>
+        </div>
+        <div class="passenger-tbar">
+            <ul class="passenger-title max5 font_12">
+                <li><p>成人儿童总人数最多5人，成人儿童比例为1:2，1个成人最多携带1个婴儿，婴儿数量最多为3个;
+                    如需单人携带3个及以上儿童出行，请致电客服热线95339咨询办理；</p></li>
+                <li><p>[儿童]指旅行开始之日年龄满2周岁(含)但不满12周岁的人;
+                    <br>[婴儿]指旅行开始之日年龄满14天但未满2周岁的人;</p></li>
+                <li><p>未满18周岁的旅客不能单独携带儿童或婴儿出行</p></li>
+            </ul>
+            <ul class="passenger-title max3 font_12">
+                <li><p>最多3人，成人儿童比例为1:2；</p></li>
+                <li><p>[儿童]指旅行开始之日年龄满2周岁(含)但不满12周岁的人；</p></li>
+                <li><p>未满18周岁的旅客不能单独携带儿童出行。</p></li>
+                <li><p>使用家庭账户积分进行兑换时，单个订单最多允许兑换4个行程</p></li>
+            </ul>
+        </div>
+        <div class="passenger-bottom"><button class="confirm-button">确认</button></div>
+    </div>
+</div>
+<div class="chooselevel-container">
+    <div class="chooselevel-wrapper font_14">
+        <div class="chooselevel-item">
+            经济舱
+        </div>
+        <div class="chooselevel-item">
+            公务舱/头等舱
+        </div>
+    </div>
+</div>

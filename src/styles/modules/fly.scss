@@ -1,0 +1,46 @@
+.fly-container{
+    overflow: hidden;
+    height: 100%;
+    background: #fff url(http://m.hnair.com/package/images/bg_hnafeather_trips.svg) no-repeat;
+    background-size: cover;
+    .fly-wrapper{
+        .next-station-tip-top {
+            text-align: center;
+            padding: .875rem 0 1rem;
+        }
+        .fly-no-travel{
+            margin-top: 3rem;
+            width: 100%;
+            text-align: center;
+            visibility: visible;
+            font-size: .875rem;
+            display: flex;
+            justify-content: center;
+            img{
+                width: 1rem;
+            }
+        }
+        .fly-no-user{
+            width: $w;
+            img{
+                width: $w;
+            }
+        }
+        .fly-unlogin-travel{
+            line-height: 2rem;
+            text-align: center;
+            color: #9b9b9b;
+            font-size: .875rem;
+            .fly-unlogin-btn{
+                width: 6.625rem;
+                height: 2rem;
+                margin: 1.25rem auto 0;
+                background: #e1514c;
+                border: 1px solid #e1514c;
+                border-radius: 1rem 0px;
+                color: #FFF;
+                font-size: .875rem;
+            }
+        }
+    }
+}

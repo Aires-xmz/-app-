@@ -1,0 +1,10 @@
+<%
+for(var i = 0;i < list.length;i++){
+var cityCN = list[i].city;
+var py = list[i].pinyin;
+var nameEn = list[i].nameEn;
+if( list[i].code == val || cityCN.includes(val) || py.startsWith(val) || nameEn.startsWith(val) ){ %>
+    <div class="citylist-list-row-item">
+        <span class="font_24">{{list[i].city}}</span><span class="font_14">{{list[i].name}}</span>
+    </div>
+<%} } %>

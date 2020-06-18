@@ -1,0 +1,52 @@
+.index-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%; }
+  .index-container header {
+    height: .48rem;
+    background-color: #fafafa; }
+    .index-container header ul {
+      display: flex;
+      color: #444D54; }
+      .index-container header ul li {
+        flex: 1;
+        font-size: .22rem;
+        line-height: .48rem; }
+        .index-container header ul li span {
+          flex: 1;
+          padding-left: .05rem;
+          display: inline-block;
+          height: .48rem;
+          line-height: .48rem;
+          vertical-align: middle; }
+        .index-container header ul li .login {
+          font-size: .12rem; }
+        .index-container header ul li:nth-child(1) {
+          margin-left: .15rem; }
+        .index-container header ul li:nth-child(2) {
+          text-align: center;
+          color: #F45B56; }
+        .index-container header ul li:nth-child(3) {
+          text-align: end;
+          margin-right: .15rem; }
+  .index-container main {
+    flex: 1; }
+  .index-container footer {
+    height: .54rem; }
+    .index-container footer ul {
+      height: 100%;
+      display: flex;
+      background: #fff; }
+      .index-container footer ul .ico {
+        font-size: .2rem; }
+      .index-container footer ul li {
+        text-align: center;
+        color: #999;
+        font-size: .12rem;
+        flex: 1;
+        display: flex;
+        flex-direction: column; }
+        .index-container footer ul li.active {
+          color: #e1514c; }
+        .index-container footer ul li span {
+          flex: 1; }

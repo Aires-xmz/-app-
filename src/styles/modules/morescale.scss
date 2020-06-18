@@ -1,0 +1,107 @@
+.morescale-title {
+  background: #fff;
+  height: 4rem;
+  padding: 0 1.25rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  span {
+    padding: 0 0.3125rem;
+  }
+  .morescale-title-address {
+    font-size: 1.5rem;
+    text-decoration: underline;
+  }
+  .morescale-title-time {
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+  }
+}
+.morescale-sort {
+  position: relative;
+  z-index: 1;
+  background: #ededed;
+  display: flex;
+  justify-content: space-between;
+  height: 2.75rem;
+  padding-left: 1.5rem;
+  padding-right: 1.375rem;
+  align-items: center;
+  .morescale-sort-up,
+  .morescale-sort-down {
+    font-size: 1.25rem;
+    font-family: "楷体";
+  }
+  .morescale-sort-up {
+    margin-right: 0.75rem;
+  }
+  .active {
+    color: #e1514c;
+  }
+}
+.sortby-container {
+  height: calc( 100% - 9.5rem );
+  display: none;
+  position: absolute;
+  z-index: 9999999;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  .sortby-wrapper {
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    .sortby-item {
+      height: 2.75rem;
+      line-height: 2.75rem;
+      background: #fff;
+      padding-left: 1.5rem;
+    }
+  }
+}
+.morescale-container {
+  height: calc(100% - 6.75rem);
+  position: relative;
+  .morescale-wrapper {
+    display: flex;
+    flex-direction: column;
+    .morescale-item {
+      position: relative;
+      height: 3.75rem;
+      padding: 0 1.25rem;
+      background: #fff;
+      color: #444d54;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      img {
+        width: 1rem;
+        height: 1rem;
+        position: absolute;
+        right: 1.25rem;
+        top: calc(50% - 0.5rem);
+      }
+      > div {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 2.25rem 0 0;
+        .morescale-item-top-discount {
+          height: 18px;
+          line-height: 20px;
+          text-align: center;
+          padding-left: 15px;
+          color: #fff;
+          background: url("http://m.hnair.com/package/images/tag.svg") no-repeat;
+          background-size: cover;
+        }
+      }
+    }
+  }
+}

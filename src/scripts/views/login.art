@@ -1,0 +1,20 @@
+<div class="login-container">
+    <div class="login-wrapper">
+        <div class="login-header"></div>
+        <div class="login-body">
+            <div class="login-username">
+                <input type="text" value="" placeholder="金鹏卡号/手机/邮箱 /中国身份证/护照" class="login-input-account">
+            </div>
+            <div class="login-password">
+                <input type="password" placeholder="登录密码" class="login-input-pwd">
+            </div>
+            <div class="login-status">
+                <div><input class="check-item" type="checkbox"><span class="login-status-item">绑定微信账号</span></div>
+                <div><input class="check-item" type="checkbox"><span class="login-status-item">保持登录状态</span></div>
+            </div>
+            <button id="loginBtn" class="login-button">登录</button>
+            <div class="login-forgot-wrapper"><div>忘记密码</div><div>忘记卡号</div><div>注册金鹏会员</div></div>
+        </div>
+        <div class="login-bottom"></div>
+    </div>
+</div>

@@ -1,0 +1,131 @@
+<div class="vip-container">
+    <div class="vip-wrapper">
+        <div class="vip-user-image">
+            <img src="http://m.hnair.com/package/images/member_card_0.png">
+            <div class="vip-user-data-text">
+                <div class="font_14">
+                    <div class="vip-oneline-name">
+                        <span class="name">许明肇</span>
+                        <span>先生</span>
+                    </div>
+                </div>
+                <p class="font_14">5020 7697 93</p>
+                <p class="font_12">金鹏卡</p>
+                <p class="font_12" style="margin-top: 1.25rem;">金鹏俱乐部</p>
+            </div>
+            <div class="vip-user-image-zoomout">
+                <img src="http://m.hnair.com/package/images/member_card_zoomout.svg">
+            </div>
+        </div>
+        <div class="vip-point-number font_14">
+            <div class="label">消费积分</div>
+            <div class="info">
+                <p class="number font_18">1178</p>
+                <p class="date font_12" style="display: block;color: #9b9b9b;">过期日 ： 2021.1.11</p>
+            </div>
+        </div>
+        <div class="hna-user-upgrade-container">
+            <div class="hna-user-slide-item-header">
+                <div class="font_14">会员等级</div>
+                <img src="http://m.hnair.com/package/images/info_long.svg">
+            </div>
+            <div class="hna-user-slide-item">
+                <div class="vip-fly font_12">
+                    <div class="side-box">
+                        <div class="name-box">
+                            <div class="spot"></div>
+                            <div class="name">定级积分</div>
+                        </div>
+                        <div class="percentage font_20">12%</div>
+                        <div class="progress">
+                            <span class="num">623</span>
+                            <span>/ 5000 </span>
+                        </div>
+                    </div>
+                    <div class="hna-user-upgrade-image">
+                        <div>
+                            <canvas id="hna-process-rings949" width="840" height="840"></canvas>
+                            <div class="fight-svg">
+                                <img src="http://m.hnair.com/package/images/flight-top.svg">
+                            </div>
+                            <p class="text">升级进度</p>
+                        </div>
+                    </div>
+                    <div class="side-box right">
+                        <div class="name-box">
+                            <div class="spot"></div>
+                            <div class="name">定级航段</div>
+                        </div>
+                        <div class="percentage font_20">25%</div>
+                        <div class="progress">
+                            <span class="num">1</span>
+                            <span>/ 4 </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="font_12 text">
+                    <span>升级还需4377.0定级积分 / 3.0定级航段</span>
+                </div>
+            </div>
+        </div>
+        <div class="hna-book-menu">
+			<ul>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201805/P020190603615154020844.png" alt="">
+					<p>积分换机票</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201802/P020190523610241197768.png" alt="">
+					<p>飞行记录</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201802/P020190523610819166561.png" alt="">
+					<p>积分账单</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201802/P020190523611149473484.png" alt="">
+					<p>会员档案</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201802/P020190523611408074113.png" alt="">
+					<p>受益人管理</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201905/P020190523612021829705.png" alt="">
+					<p>积分补登</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201802/P020190523612648531394.png" alt="">
+					<p>会员手册</p>
+				</li>
+				<li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201907/P020190919340021053247.png" alt="">
+					<p>家庭账户</p>
+				</li>
+                <li>
+					<img src="https://m.hnair.com/cms/config/standard/service/201909/P020190930392329808904.png" alt="">
+					<p>金鹏挑战赛</p>
+				</li>
+			</ul>
+		</div>
+    </div>
+</div>
+<div class="hna-member-show-card">
+    <div>
+        <div class="hna-member-dialog-img-box" style="height: 270px;">
+            <img src="http://m.hnair.com/package/images/card_level_0.png" alt="">
+            <div class="text">
+                <p class="font_18">5020 7697 93</p>
+                <p class="font_16">
+                    <div class="hna-oneline-name">
+                        <span class="name">许明肇</span>
+                        <span>先生</span>
+                    </div>
+                </p>
+            </div>
+        </div>
+        <div class="close">
+            <img src="http://m.hnair.com/package/images/delete01.svg">
+        </div>
+    </div>
+</div>

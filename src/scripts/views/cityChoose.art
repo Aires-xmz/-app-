@@ -1,0 +1,22 @@
+<div class="citylist-column font_14 floor">
+    <div class="citylist-column-label">{{list.title}}</div>
+    <div class="citylist-column-content">
+    {{each list.hotList}}
+        <div class="citylist-column-item">{{$value.displayName}}</div>
+    {{/each}}    
+    </div>
+</div>
+{{each air}}
+<div class="citylist-list-row floor" id="group-{{$index}}">
+    <div class="citylist-list-row-label">
+        <span class="font_10">{{fir[$index+1]}}</span>
+    </div>
+    <ul class="citylist-list-row-content">
+        {{each air[$index]}}
+        <li class="citylist-list-row-item">
+            <span class="font_24">{{$value.city}}</span><span class="font_14">{{$value.name}}</span>
+        </li>
+        {{/each}}
+    </ul>
+</div>
+{{/each}}

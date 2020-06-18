@@ -1,0 +1,44 @@
+#root {
+  height: 100%; }
+
+html {
+  width: 100%; }
+
+@font-face {
+  font-family: 'yofont';
+  src: url("iconfont.eot");
+  src: url("../../assets/icons/font/iconfont.woff") format("woff"), url("../../assets/icons/font/iconfont.ttf") format("truetype"), url("../../assets/icons/font/iconfont.svg#iconfont") format("svg"); }
+
+header {
+  position: relative;
+  z-index: 9999999;
+  height: 2.75rem;
+  background-color: #fafafa; }
+  header ul {
+    display: flex;
+    color: #444D54; }
+    header ul li {
+      flex: 1;
+      line-height: 2.75rem;
+      font-size: 1.375rem; }
+      header ul li span {
+        flex: 1;
+        padding-left: .5rem;
+        display: inline-block;
+        height: 2.75rem;
+        line-height: 0.2 0.75rem;
+        vertical-align: middle; }
+      header ul li .login {
+        font-size: .75rem; }
+      header ul li.font-position {
+        color: #e1514c; }
+      header ul li.font-fly {
+        font-size: 1.0625rem;
+        color: #444D54; }
+      header ul li:nth-child(1) {
+        margin-left: .4rem; }
+      header ul li:nth-child(2) {
+        text-align: center; }
+      header ul li:nth-child(3) {
+        text-align: end;
+        margin-right: .4rem; }

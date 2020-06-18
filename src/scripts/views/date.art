@@ -1,0 +1,7 @@
+<center>
+<div class="iDate date">
+	<input type="text" class="date-selected">
+	<button type="button" class="addOn"></button>
+</div>
+<button class="ok" type="button" class="btn btn-danger">确定</button>
+</center>
