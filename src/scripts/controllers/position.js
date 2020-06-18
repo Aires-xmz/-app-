@@ -4,7 +4,11 @@ const {http} = require('../utils/http')
 // import BScroll from 'better-scroll';
 class Position {
     async render(titleLi) {
+<<<<<<< HEAD
         localStorage.setItem('user',JSON.stringify({'username':'17793247646','password':'123'}))
+=======
+        
+>>>>>>> 55e1a0ec86bd3666acd6cd35152e225e754eff8b
         let result = await http({
             type:'post',
             url:"/api/mhome",

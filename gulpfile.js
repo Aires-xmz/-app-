@@ -58,7 +58,11 @@ function gulpServer(){
     return connect.server({
         name:"Dist App",
         root:'./dev',
+<<<<<<< HEAD
         port:8081,
+=======
+        port:8080,
+>>>>>>> 55e1a0ec86bd3666acd6cd35152e225e754eff8b
         // host:'10.9.49.180',
         livereload:true,
         middleware:()=>{

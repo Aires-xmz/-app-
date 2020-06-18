@@ -73,6 +73,23 @@
                     <input type="text" class="date-selected">
                     <button type="button" class="addOn"></button>
                 </div>
+<<<<<<< HEAD
+=======
+                <!--<div class="reserve-row-input reserve-passgener-ct">
+                    <div>
+                        <span class="font_24">10</span>
+                        <span class="font_14">月</span>
+                    </div>
+                    <div>
+                        <span class="font_24">30</span>
+                        <span class="font_14">日</span>
+                    </div>
+                    <div>
+                        <span class="font_14">2019</span>
+                        <span class="font_14">年</span>
+                    </div>
+                </div>-->
+>>>>>>> 55e1a0ec86bd3666acd6cd35152e225e754eff8b
             </div>
         </div>
         <div class="reserve-row return-dates" data-to="datechoose">
@@ -82,6 +99,23 @@
                     <input type="text" class="date-selected">
                     <button type="button" class="addOn"></button>
                 </div>
+<<<<<<< HEAD
+=======
+                <!--<div class="reserve-row-input  reserve-passgener-ct">
+                    <div>
+                        <span class="font_24">11</span>
+                        <span class="font_14">月</span>
+                    </div>
+                    <div>
+                        <span class="font_24">6</span>
+                        <span class="font_14">日</span>
+                    </div>
+                    <div>
+                        <span class="font_14">2019</span>
+                        <span class="font_14">年</span>
+                    </div>
+                </div>-->
+>>>>>>> 55e1a0ec86bd3666acd6cd35152e225e754eff8b
             </div>
         </div>
         
